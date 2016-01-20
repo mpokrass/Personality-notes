@@ -450,3 +450,244 @@ The challenge for humans is that we have all of these charioteers and horses, ne
 To have virtue need to know yourself. It is really hard to know yourself because so many aspects are unconscious and murky, underworld.
 
 We are all ignorant. Plato's cave, we are chained to our ignorance. There is more to know than we think.
+
+## Week 3, Psychoanalysis - Jan 19
+
+Miley Cyrus is sex and aggression personified
+
+Freud came on the tail end of the failure of the catholic church on the quest to support humans, in the middle ages. Freud was a voracious consumer of Greek philosophy and mythology, as well as Jung (who was also into religion).
+
+Europe was politically insecure after the middle ages. Lots of invasions, Muslim, etc. People were living in chaos and insecurity. Lots of wars and famines.
+
+This environment gave rise to a new phenomenon. People went all in on the transcendent. Build huge cathedrals that towered to the skies, drew people’s minds away from the horrible temporal world and towards the transcendent. People focused on this stuff even though there was poverty and people living on the streets.
+Gave rise to the crusades, went on for 300 years. Using religion to justify war.
+
+A few hundred years later, Europe got even worse - black plague, half of the people died. Hundred-years war between England and France. Ice age, made famine more predominant.
+
+A Distant Mirror by Tuchman shows how unbalanced Europe had become. There was a complete focus on transcendent glory. The church was very focused on power and glory. Could buy indulgences for the afterlife, coffins. Could volonteer for the crusades and have all your sins forgiven. Religion became a defence mechanism.
+William James said that it makes the sand and grit (like dukkha) of self-hood incline disappear. Moral enthusiasm, not just religion, like what Trump spews.
+Catholic church had flown too high, lost touch.
+
+People going to the crusades bumped into Aristotle. The ignorant Muslims who were too be massacered were very knowledgeable about the Greeks. Aristotle was a proto sientist., Was interested in this world. Interest in science began again. From this rennaissance (rebirth) in science and interest in this world (and not just the transcendent world). Copernicus was the first threat to human dignity at the time. People were told that the Earth was the center of creation, but Copernicus said it was not even the center of the solar system. Guttenberg and the printing price. Protestant revolution, Galileo, Newton (Gravity). Natural laws that don’t require a supernatural hand.
+Next were Voltaire and Rousseau (enlightment and romanticism). The enlightment occurred in the 18th century. Gathered together lots of thoughtful people in an interest to make things better. An interest in humanism.
+
+Rousseau wrote novels and could take a lot of meaning from human emotion. Romanticism began to replace the focus of the non-wordly realm. People became interested in their emotions and feelings.
+
+Around that time, the Catholic church was losing its authority. Neurotic rich people were looking for a cure for their symptoms. Mesmer offered these cures. He did mystical practices, would release women from the neuroses. Mesmer said it was animal magnetism (unconscious force between people) had these psychological effects.
+
+Casanova wrote his book about how people had unconscious desires that conflicted with their conscious thoughts. Unconscious yearnings for animal passion. This was the beginning of psychoanalysis as popular culture was getting interested with unconscious emotions, and also with relationships. The therapeutic alliance. Freud said that sexuality was the basis of all neuroses.
+
+Mesmer made an animal magnetism tub, had groups of women come in, they would all hold onto the rails and he would do them all at once, mass healing.
+
+### 19th Century
+Freud was all about beastly passions and submitting to them. 19th century England, Queen Victoria. Seething preoccupation with sex - evident in theatre and humour.
+Still this Protestan prudery. Darwin and origin species came in. Insult to human dignity - not even centre of the planet. Feuled the fire about the importance of sexuality - it is part of our nature, we are just like the other animals.
+
+Hypnosis, people believed there were other states beneath conscious awareness.
+
+Charcot was interested in hysteria, unconscious psychological problems could translate into physical problems.
+
+Industrial revolution was churning, Hemholtz was a doctor who popularized the conservation of energy - steam engine.
+People living in cities, working conditions really grim. Factory workers had no life, the church had collapsed as a source of authority.
+People were supposed to get meaning from their emotions but they were constantly working (anomie).
+
+Conflict between religious ideals and temporal pleasure (worldly pleasure).
+Lot of curiousity about unconscious emotions and instincts. Legitimized by the romantic movement who said this was an important part of being human.
+
+### Sigmund Freud
+
+Three insults to human dignity:
+- Copernicus: we’re not the center of the universe
+- Darwin: we’re not the center of the animals, earth
+- Freud: we’re not the center of our human nature, it is rather the Id. The best we can do is socialize our beastly passions
+
+Freud began as a medical doctor doing research in a bio lab on the reproductive parts of electric eels, very phallic. He got good at experimenting on tissue with cocaine. Dabbled in cocaine, gave it to his friends. Freud suffered with anxiety and depression all his life, cocaine was great for him at first.
+
+Theme in myth/religion: to be whole and healthy need to descend into a dark place with beasts/dragons/demons and have to face them, experience the suffering. Once you did this, then you could transcend with these communally balanced solutions. This is exactly what Freud talked about, but with unconscious. Discover things about yourself, passions, murky aspects. The part of you that you don’t want to admit. Irrational aspects. Was a prerequisite to well being and health.
+
+Then Freud said we have to take all this bad, animal (Id) energy and transform it into something redemptive. Defence mechanism of sublimation. Want to have sex with all the people you like and kill all competitors. We will turn this urge into altruism. Indulge in loving in a more abstract way. Maturity was a defence mechanism. This was the communally balanced solution. Tried to get the superego in a way that acknowledged the other natures.
+
+Freud was missing some scientific tools. He generated theories, it’s really easy to delude ourselves into thinking that we are right. Freud eventually lost all of his disciples, he had a very myopic view on sex. Freud was using rudimentary tools.
+
+### Carl Jung
+Was actively religious, very interested in the paranormal. Jung was way more open minded than Freud. Was a sexual philanderer. Unlike Freud was very prudish about his own life. Jung was very open to ideas about the paranormal. Lots of mental illness in his family. Lots of strange things happened in his childhood, tables breaking, etc. So he experimented with ouija boards and the supernatural.
+
+Jung was ahead of the curve on some other things though.
+
+The main difference between Freud and Jung is that Freud thought that Id was a receptacle for moral refuse. Main point of therapy was to acknowledge what a rascal you are, and change the shape of that so you could adjust into society. Jung had a spiritual view of the subconscious. He said that there were many archetypes that could help us grow. He thought through dreams and the unconscious you could get into your real true selves. He thought people were missing many parts of our identity. We are also a little girl, wise guru, strong beast, etc. Guidance or integrating all these parts can be had by getting in touch with the unconscious. Jung had a more optimistic view on the subconscious, unlike Freud who was very pessimistic.
+
+### Freud’s general ideas
+- Id (dark horse)
+    - passionate, beast
+    - wants instant gratification
+    - this is what we get our energy from
+    - it is desire
+    - like a pitbull puppy - want to mate or bite everything
+    - neurotic anxiety
+    - might cause neurotic anxiety because you might think that you’re very in control, but notice these urges getting to you. perverted fantasies
+    - the Id is related with two developmental stages - oral and anal, and then phallic
+    - we get pleasure from these zones, and they are also related to our development
+too much/not enough breastfeeding/toilet training might cause an imbalance in this part of personality
+- Superego (white horse)
+    - virtue, wanting to do the right thing
+    - absorb this from our parents/culture
+    - Freud thought men had more of this than women
+    - that’s why men are moral than women!
+    - Oedipal complex - men are afraid that they are going to have their penis cut off by their father because he sees son as competition for mother
+    - to resolve this terror (hating dad and then being castrated) he decides to become like father, and then can win mother (or people like mother)
+    - become moral to be like dad (men are moral authority)
+    - moral voice
+    - can have moral anxiety when you think hateful/aggressive thoughts, but think you are a good person
+    - childhood sexuality = want to share good body feeling with parents
+    - big crisis for kids - phallic stage
+    - corresponding electra complex for women, resolved by becoming like mom
+    - moral anxiety when Id carries you away
+- ego (rational charioteer)
+    - reality principle
+    - is trying to mediate between the two
+    - ego is stuck between superego, id, and reality
+    - if it can’t work out a conflict, then the ego could resort to defence mechanisms
+    - will repress whatever comes from the Id and push it back into the unconscious
+    - common denominator of most defence mechanisms - accomplish repression
+    - the problem with this is that the thoughts don’t go away, keeps threatening to come back, weird things can happen
+
+Repression keeps the objectionable thought down by a surplus of intensity. Think of some other thought, really hard. Push the unwanted thought out of the way, mental dams.
+
+### Freud’s Iceberg Unconscious
+The ego has access to the preconscious, unconscious and the conscious. Same with the superego. Id is entirely in the unconscious.
+
+### Psychodynamics
+- instincts in animals, give rise to drives, motivational imperatives, translate into wishes and goals
+    - where our energy comes from
+    - life instinct drive (libido)
+    - death instinct drive (thanatos), often translated into aggression
+- hydraulic theory was based on a metaphor
+    - we have these 2 drives, that are like water in pipes
+    - gives us energy to do things, and we have to let it out
+    - if we don’t let it out, neurotic or compulsive, odd behaviours
+    - sometimes you can’t let things out so you repress them with defence mechanisms
+    - doesn’t help in the long term, causes a release in pressure
+    - to get around this, use displacement - I have this energy, I want to tell prof he is a jerk, but I can’t say it to his face, so instead I kick my dog
+    - Freud thought this catharsis was healthy. Not healthy if it is done in a bad way, antisocial
+    - sublimation is how we get these nasty drives catharted in a way that doesn’t hurt anybody
+    - might pick up cigar smoking, when we really crave fellatio
+    - Freud was a compulsive cigar smoker
+    - can become an architect and build CN tower, phallic symbol next to round symbol that opens and closes (rogers centre)
+    - abstract your wishes, release the energy symbolically or socially acceptably
+    - sublimate urges into creation (instead of offspring)
+- Freud also said, have compassion for yourself, you are an animal, let the horse have some hay. Let yourself experience some direct sexual pleasure.
+
+Displacement is finding a different way of releasing this energy that still somehow works. Sublimation is a form of displacement that is pro-social.
+
+### Does Catharsis Work?
+Miley, wrecking ball, about a break up.
+Let teenage boys jerk off all day - “better than other things.”
+Ranting after a breakup, does it make us feel better?
+
+There are therapies that are built around this, like pillow punching.
+
+Don Cherry has the same idea for hockey. Gotta let the boys fight. He is a Canadian redneck, is really insistent on fighting in professional hockey. They have aggressive energy, need to get it out so they don’t become savages.
+
+There has been research on this. Researcher got word that a bunch of engineers were about to get fired. Got one group to rant, the other group explained something else. Then checked them a while later. They worked them up into a lather, they got angrier.
+
+Trauma teams and PTSD. During shooting, disaster, emergency. Psychologists are on their way, debriefing. Whole premise is Freudian. Talk about your feelings before you repress it and you won’t get PTSD. A lot of people have studied this. Compare people who got and who didn’t get counseling. There is no effect on later well-being, but we all believe it because we are implicit Freudians. That kind of catharsis does not work, statistically.
+
+What you really need is not just going over the material, just rumination. Need to put it into a meaningful context. Some kind of redemptive aspect.
+
+People were asked (randomly assigned) to spend a few days writing in their diaries (4 days). Talk about life experiences. How is this related to the kind of person you are, your childhood, your relationship, your loves? Adele does this, says she is still hurting. Adele has gone into the darkness, has been mindfully aware, rises above it. Decides she’s going to love him even though he’s not going to love her. No mindful awareness in coming in like a wrecking ball.
+This is catharsis, we identify with the vulnerability and the hope.
+
+Greeks believed in catharsis, in drama because it let you vicariously move forward.
+
+Slumdog millionaire, wins, gets the girl. These kinds of narratives are what Jung thought were the basis of psychological health. Make meaningful sense of our world that allows us to move on.
+
+EMDR (eye movement desensitization reprocessing). This therapy is done a lot by non psychologists. Reminiscent of Mesmer. Watch the therapist's hand or a light, while you think about your problems. The theory is that the eye movement activates the two different hemispheres, causing neural integration. Talk about fears/problems/worries and then hopes/dreams/successes.
+
+This kind of emotional catharsis only seems to work when you make meaning out of the material. Not enough just to go over the facts of the matter, need to put it in the context of life, and then can maybe see a way forward. Eg. seeing that you can be loved again after being dumped.
+
+### Some Defense Mechanisms
+Most basic kinds are denial/distraction/suppression.
+A lot of guys think “she’ll come back, she’ll realize”.
+
+Rationalization is another one, deciding you dodged a bullet, are “better off” without her. Hurt and sense of loss are still there though.
+
+Then realizing, she’s not a basket case after all. “I hope she’s happy, she’s the best person for him, I’m happy for them”. This is the reaction formation - say the opposite to how you feel, might work if you say it loud enough.
+
+Return of the repressed: rowdy audience member that you kick out but keeps coming back in, like the repressed thoughts. The thoughts will always eventually come back up. Might go to extremes, aggressive/sexual fixations/displacements. Some people rebound.
+
+Projection and introjection of values:
+- I feel worthless and bad, but I can’t admit that, so I’ll project that onto someone else
+- like Trump projecting onto the Mexicans
+- introjection: convince yourself that you are great, pull in values from someone else
+- I’m an American, I’m great! Trump is like gold for defense mechanisms
+
+### Freud, Jung, Therapy
+Can’t just pull yourself up by your bootstraps. You get swamped by mystery moods, where is this coming from?
+
+Jung thought this was one of the main misunderstandings about themselves, that people can control themselves with willpower. According to him you can’t do this unless you are familiar with your unconscious. Need to make the unconscious conscious. Wrestle with the beasts that are there, make sense of them.
+
+Both Freud and Jung thought there were therapeutic ways to do this.
+
+Freud thought that if you said “my neck hurts” there is some kind of neurosis there. The symptom is meaningful because there is someone in your life that is a pain in the neck. Or hip pain is a sex issue. Deep meaning into the symptoms.
+
+Looking at what people do by accident, also at things people find funny. Freudian slips. Saying what you really man. Getting song stuck in your head, where did it come from? Often related to things going on in our lives.
+Passive aggressive stuff like leaving scissors open. Accidents that aren’t really accidents. Calling girlfriend by dog’s name.
+
+Free association: complexes around feelings and thoughts that we repressed. Whenever you put up resistance in therapy, that means you are getting somewhere important. What do the free associations skirt around, what is the common denominator. Get to the heart of the conflict. This is why Freud didn’t like hypnosis, because there was no resistance.
+
+Freud would tell people to say something on their minds, prompted them by putting his hand on their hand. Touch used like Mesmer, touch used to release emotions. Made people feel safer.
+
+Transference: if I feel like I have issues with my parents because I wasn’t loved properly, I have it all repressed, I have all these symptoms. This therapists is a kindly person who is there for me, this is like a parental relationships, this is safe. All these things that are suppressed (eg. hidden yearnings) come up again. Find yourself falling in love with therapist, is really common. Idealize the therapist. Then you discover that the therapist is just a person, and then can vilify them. People have extreme reactions with therapists, Freud thought this was very important. Now we are reenacting the conflicts that we repressed before, displace them into the therapist. Might help the client get to the root of the problem.
+
+Dreams!
+
+Freud thought sublimating the goal into something socially acceptable was the ultimate goal. Jung instead wanted clients to resonate with the unconscious. For Jung, the point was meaning, for Freud it was insight and then sublimation.
+
+
+### Freud on Dreams
+Were generally wish fulfilment. Very obvious in children, but in adults had sexual and aggressive themes. Since we repress it, it bubbles up into our dreams. A big part of therapy is having people talk about their dreams, the sexual and aggressive themes. This is the first step, can be worked through. Our superego/ego also permeate into our unconscious dreamspace.
+Too threatening, even in the dream world, to let the Id out.
+Have the manifest meaning - what actually happened, eg. chased by a bear.
+Latent content, the psychological aspect. Free association around dream content and noticing where the resistance is.
+Anxiety dream could be superego adding anxiety to disguise it. Or the dream is getting close to admitting true wishes, because moral anxiety in revealing true dreams.
+
+### Jung’s Association Method
+Need to have people talk about anything, also believed in association.
+Say the first thing that comes to mind, when see a certain word. Jung would notice when you couldn’t come up with a word to associate with. Looked at reaction time in reply to discover complex. Look at themes that people had a hard time with. See what people are neurotic/anxious about. Jung didn’t waste dream content on association.
+
+Jung thought dream content should be saved for the smart unconscious, for delving into this resource of meaning. Not just a receptacle for sex/aggression.
+
+If Freud saw snake eating itself he’d say autoerotic. Also related to sex and aggression.
+Jung and Freud had their first big argument about one of Jung’s dreams. He dreamed that he was exploring a house, discovered bones in the subcellar. Was exciting (he used to be an archeologist) because he had recently discovered archetypes. Freud thought this was death dream, that Jung wanted to kill him. Jung decided to never impose a meaning on someone else’s dream. Freud didn’t want to talk dreams with Jung anymore.
+
+Orienting towards wholeness and meaning. Waterlily or lotus flower might symbolize nourishment from the muck, someone beautiful meaning above the surface.
+
+Sexual dreams weren’t about other people, characters were parts of you. Trying to get in touch with your own shadow. Ugly, fierce, socially unacceptable part of ourselves. Integrate our shadow into our persona to have a more whole view of ourselves. The anima is the other symbol, like the little girl in a dream, get in touch with feminine part of self.
+
+Must ring true for the patient for Jung. It’s about the pathway to personal wholeness and meaning.
+
+### Jung’s Dream Examples
+- Jekyll/Hyde came to author in a dream
+- man had a dream about his neglected wife, she was a street person, when real wife is sophisticated and amazing, turns out this is his female side that he is neglecting
+- doctor sanitized heaven, then realized there is no God. We try to sanitize our life so there is nothing murky/dangerous, but then we lose touch with our soul
+- flying dream: narcissists have these. Tell you you should come back down to earth. Or might be too timid, saying “come on, fly a little”
+
+### Jung’s Contentious Ideas
+- had idea of archetypes
+    - tried to explain they weren’t magical
+    - hero myth about somebody who has the courage to face some kind of demon and wrestle with it and defeat it and do something good for humanity
+    - this is what Apollo did, with his temple of Delphi. Slays the dragon
+    - comes up independently across cultures because dragons/beasts are symbols of anxious uncertainty
+    - we are vulnerable and lost, but this hero archetype tells us we can overcome it if we can face it
+    - mother type, shadow type, little girl type, wise guru
+    - Jung was trying to say that we have a human nature and there are things that we long for and are wired to dislike, so symbols of them come up across cultures
+    - to understand human nature need to understand these symbols
+- synchronicity
+    - thought physical world was somehow connected to psychological experience
+    - connected at some mystical/magical way
+    - tables cracked, knives shattered, related to spiritual exploration in the house
+    - if a bug lands from the window during therapy, it might be meaningful, what does this symbolize?
+    - universe is trying to tell us something
+- precognition
+    - believed in dreams predicting the future
+    - eg. dream about blood before a war
