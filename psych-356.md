@@ -748,3 +748,5 @@ Must ring true for the patient for Jung. It’s about the pathway to personal wh
 - precognition
     - believed in dreams predicting the future
     - eg. dream about blood before a war
+
+## Week 4 - Traits (Jan 26)
