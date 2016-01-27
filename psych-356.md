@@ -1,61 +1,6 @@
 # PSYCH 356 - personality
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [PSYCH 356 - personality](#psych-356-personality)
-	- [Week 1 - Myth (Jan 5)](#week-1-myth-jan-5)
-		- [Cave Art](#cave-art)
-		- [Epic of Gilgamesh](#epic-of-gilgamesh)
-		- [Isis, Osiris, Horus](#isis-osiris-horus)
-		- [Crete's Minoan Civilization](#cretes-minoan-civilization)
-		- [Dionysus](#dionysus)
-		- [Elusinian mysteries](#elusinian-mysteries)
-		- [Mycenaeans: Strife in the House of Atreus](#mycenaeans-strife-in-the-house-of-atreus)
-		- [The Iliad : Achilles and the Siege of Troy](#the-iliad-achilles-and-the-siege-of-troy)
-		- [Odyssey](#odyssey)
-		- [Self-Knowledge: Circe and the Delphic Oracle](#self-knowledge-circe-and-the-delphic-oracle)
-		- [Labyrinth and Minotaur](#labyrinth-and-minotaur)
-		- [Icarus](#icarus)
-		- [Oedipus](#oedipus)
-		- [Prometheus](#prometheus)
-		- [Aesop on pride](#aesop-on-pride)
-		- [Narcissus](#narcissus)
-		- [Course Themes](#course-themes)
-	- [Week 2, Religion - Jan 12](#week-2-religion-jan-12)
-		- [Can Religious Beliefs Reduce revenge](#can-religious-beliefs-reduce-revenge)
-		- [Mindful, Communally Balanced Solutions](#mindful-communally-balanced-solutions)
-		- [Hindusim: Psychological Liberation](#hindusim-psychological-liberation)
-		- [Buddhism: Freedom from Anxiety](#buddhism-freedom-from-anxiety)
-		- [Confucianism: Harmony](#confucianism-harmony)
-		- [Taoism](#taoism)
-		- [Zen Buddhism](#zen-buddhism)
-		- [Judeo-Christian tradition](#judeo-christian-tradition)
-		- [Judaism: wandering, bondage, exile](#judaism-wandering-bondage-exile)
-		- [Judaism: Deliverance, Redemption](#judaism-deliverance-redemption)
-		- [Christianity: Sin, Sacrifice, Salvation](#christianity-sin-sacrifice-salvation)
-		- [Virgin Mary](#virgin-mary)
-		- [Islam: Surrender and Peace](#islam-surrender-and-peace)
-		- [Greek philosophy](#greek-philosophy)
-		- [Greek virtues](#greek-virtues)
-			- [Balance](#balance)
-			- [Virtue: taming the beast](#virtue-taming-the-beast)
-			- [Virtue as Harmony](#virtue-as-harmony)
-	- [Week 3, Psychoanalysis - Jan 19](#week-3-psychoanalysis-jan-19)
-		- [19th Century](#19th-century)
-		- [Sigmund Freud](#sigmund-freud)
-		- [Carl Jung](#carl-jung)
-		- [Freud’s general ideas](#freuds-general-ideas)
-		- [Freud’s Iceberg Unconscious](#freuds-iceberg-unconscious)
-		- [Psychodynamics](#psychodynamics)
-		- [Does Catharsis Work?](#does-catharsis-work)
-		- [Some Defense Mechanisms](#some-defense-mechanisms)
-		- [Freud, Jung, Therapy](#freud-jung-therapy)
-		- [Freud on Dreams](#freud-on-dreams)
-		- [Jung’s Association Method](#jungs-association-method)
-		- [Jung’s Dream Examples](#jungs-dream-examples)
-		- [Jung’s Contentious Ideas](#jungs-contentious-ideas)
-
-<!-- /TOC -->
+[toc]
 
 ## Week 1 - Myth (Jan 5)
 
@@ -94,7 +39,7 @@ Sumeric epic story. Tells of Gilgamesh, the mighty king who slayed beasts and an
 Was a very anxious and unsafe time. He was described as very mighty, killed monsters. When goddess of love, Ishtar offered love and affections, he told her to GTFO because he was busy.
 She got annoyed, so she sent the bull of heaven down to punish them. Gilgamesh and friend kill the bull of heaven, so she is mad. She kills the friend, Gilgamesh's only friend. He is great, but he is alone.
 He runs around the world in anguish, looking for a solution. Is scared of dying as well.
-He finds someone who became immortal. He survived because (when the God's sent a flood for the "clamoring ambition") he built an arc.
+He finds someone who became immortal. He survived because (when the God's sent a flood for the "clamouring ambition") he built an arc.
 But this won't happen again the guy says, so Gilgamesh is really upset and is in despair. All the hyper-agency he has is useless.
 He rebuffs love, says no to communal connection.
 
@@ -126,7 +71,7 @@ Often female goddesses riding bulls (feminine with masculine). Priestesses were 
 
 Similar story (symbolically) to Osiris. Was the progeny of Zeus and Demeter/Persephone. Was illegitimate. Zeus cheated on Hera and could Dionysys. Hera was pissed so she sent the titans to cut him into pieces when he was a child. The titans came and they cut him into pieces, but before they finished, Zeus threw a lightning bolt. The only piece that survived of Dionysus survived.
 
-Senele implanted the heart into her thigh, and he grew again (was born again). He was nurtured to life by the compassionate life.
+Semele implanted the heart into her thigh, and he grew again (was born again). He was nurtured to life by the compassionate life.
 
 Common people would participate in the rituals, would enact the grief for the dead Osiris, then they would descend into the tomb, then would have some kind of ritual (mystery because kept serious). Some scary parts of ritual, some communal elements, some conviction to live better lives when they emerged. Socrates/Plato believed they were very important for instilling morality in people.
 
@@ -139,7 +84,7 @@ Dionysus is pictures as very feminine, and androgynous. Experiences his vulnerab
 
 Greek version - very similar. Hades, Persephone, and Demeter.
 
-Perseophone (daughter of Demeter) was minding her own business, and Hades seized her into the underworld. Demeter was very upset. Symbol of platonic love. Demeter searched far and wide, never gave up, finally manages to rescue Persephone from the underworld.
+Persephone (daughter of Demeter) was minding her own business, and Hades seized her into the underworld. Demeter was very upset. Symbol of platonic love. Demeter searched far and wide, never gave up, finally manages to rescue Persephone from the underworld.
 
 Everything dies when she is down there, and everything grows again when Persephone returns.
 
@@ -163,13 +108,13 @@ The only person who ate Pelops was Demeter because she was upset about Persephon
 Pelops is somehow put back together, also has bad behaviour. Pelops' kids, Atreus do the same thing. Atreus cooked his brothers kids and taunted him with their limbs.
 Complete disregard for care and community. Atreus' kids are Menelaus (King of Sparta) and Agamemnon (main general).
 
-Trojan war began when Menelaus (king) and Helen (wife, most beautiful woman). Paris takes Helen (feminity) away to Troy. They become even more hyper-agentic.
-Menelaus and Agammemnon are super angry, and go to sack Troy. It's not going well, so Agammemnon sacrifices his daughter to improve their chances. This makes his wife mad, and he is eventually killed by her.
+Trojan war began when Menelaus (king) and Helen (wife, most beautiful woman). Paris takes Helen (felinity) away to Troy. They become even more hyper-agentic.
+Menelaus and Agamemnon are super angry, and go to sack Troy. It's not going well, so Agamemnon sacrifices his daughter to improve their chances. This makes his wife mad, and he is eventually killed by her.
 All this strife in the house of Atreus.
 
 Chriseis (Menelaus' concubine). He is told to give her back by the Gods. So Menelaus gives her back, and steals Achilles' sex slave, Bryseus. Now Achilles (greatest fighter) is now very angry. He decides to not fight for the Greeks anymore. Trojans are now winning, Achilles' countrymen are being slaughtered.
 
-Achilles' mother was a flaming narcissist. Thesus has to marry a mortal, the mother. And they had half-mortal Achilles. She tried to singe off the mortal parts of him to make him fully immortal. So he is very angry at his mother, becomes hyper-agentic.
+Achilles' mother was a flaming narcissist. Theseus has to marry a mortal, the mother. And they had half-mortal Achilles. She tried to singe off the mortal parts of him to make him fully immortal. So he is very angry at his mother, becomes hyper-agentic.
 
 While he was away with the barge, Achilles' friend was killed (just like Gilgamesh). In his anger, he fights back and wins the battle. In the end, he dies in Troy even after they win. Too agentic.
 
@@ -183,7 +128,7 @@ Achilles was from the house of Atreus. They were callous and lacking compassion 
 
 First part was the Iliad (avenge the stealing of Helen and sack Troy.) They won that battle. Second part of the story was getting home and living a long and generative healthy life.
 
-Achilles never got home, never became wise, got truncutated at a childish phase/stage. Odysseus on the other hand, was "cool" and clever, capable, like the Cretans. Capable of seeing other perspectives, and having relationships with other people. Gave him special powers to not be like Achilles.
+Achilles never got home, never became wise, got truncated at a childish phase/stage. Odysseus on the other hand, was "cool" and clever, capable, like the Cretans. Capable of seeing other perspectives, and having relationships with other people. Gave him special powers to not be like Achilles.
 
 He had the idea for the Trojan horse, was able to end the war. He could understand most people, knew they were deluded and vulnerable to flattery (Trojan horse).
 
@@ -224,23 +169,23 @@ It is tempting to respond with hyper-agency but that doesn't end well.
 Labyrinth of king Minos in Greece that had a minotaur (half man, half bull). Every year, 10 girls and boys from Athens were fed to the minotaur. This was king Minos' revenge because his son was killed by a bull in Athens.
 Was a sad event every year.
 
-One year, Prince Theseus decided to go. He was very brave and agentic and volounteered. His Dad told him to put a black sail on if he is dead, and white sail if he is alive, when the boat returns.
+One year, Prince Theseus decided to go. He was very brave and agentic and volunteered. His Dad told him to put a black sail on if he is dead, and white sail if he is alive, when the boat returns.
 
-Thesues when he gets there, makes friends with Ariadne who is the daughter of Daedalyus who made the maze. They are thrown into the maze (metaphor of adolescence). He is clever like Odysseus was, and puts down string to see how to get back out.
+Theseus when he gets there, makes friends with Ariadne who is the daughter of Daedalus who made the maze. They are thrown into the maze (metaphor of adolescence). He is clever like Odysseus was, and puts down string to see how to get back out.
 
-Theseus kills the minotaur. He rushes out the maze, hurries everyone to go home. Forgets about Ariadne and leaves her there, and she gets punished. Becomes hyper-agentic. Forgets to change the sail, it is a black sail. His father Ageus, kills himself (called the Agean sea). Theseus became unbalanced and suffered a personal/social cost.
+Theseus kills the minotaur. He rushes out the maze, hurries everyone to go home. Forgets about Ariadne and leaves her there, and she gets punished. Becomes hyper-agentic. Forgets to change the sail, it is a black sail. His father Ageus, kills himself (called the Aegean sea). Theseus became unbalanced and suffered a personal/social cost.
 
 ### Icarus
 
-Similar story here. Daedalus and Icarus were put into jail when Theseus succeeded. They fashioned wings to fly out. Daedalus tells Icarus to not fly too close to the sun or the ocean, fly the middle course, nothing to excess. Icarus flies too close to the sun and melts his wings and perishes in the sea. Metaphor for huberis, hyper-agency.
+Similar story here. Daedalus and Icarus were put into jail when Theseus succeeded. They fashioned wings to fly out. Daedalus tells Icarus to not fly too close to the sun or the ocean, fly the middle course, nothing to excess. Icarus flies too close to the sun and melts his wings and perishes in the sea. Metaphor for hubris, hyper-agency.
 
 ### Oedipus
 
 Was a prince. The King heard a prophecy that he was going to kill his wife the Queen, so he bound his feet and cast him away. Another family took him in.
 
-He heard the prophecy that he was going to kill his father and marry his mother so he left his home. At a crossroads he meets the King, and kills his father the King over the right of way (metaphor). He solves the riddle of the Sphinx and is given the Kingdom and his given Jacosta, his mother, as a bride, fulfilling the prophecy.
+He heard the prophecy that he was going to kill his father and marry his mother so he left his home. At a crossroads he meets the King, and kills his father the King over the right of way (metaphor). He solves the riddle of the Sphinx and is given the Kingdom and his given Jocasta, his mother, as a bride, fulfilling the prophecy.
 
-He is filled with anguish, Jacosta kills herself, and then he blinds himself. Extremes people go to when they are faced with anxious struggles early on.
+He is filled with anguish, Jocasta kills herself, and then he blinds himself. Extremes people go to when they are faced with anxious struggles early on.
 
 ### Prometheus
 
@@ -288,7 +233,7 @@ It's a bit of a _strawman_ though - making up an example case and using it as a 
 
 ### Can Religious Beliefs Reduce revenge
 
-Big study at York, randomly divided people, reminded them of their religious belief system (asked them). Then randomly assigned people to an anxiety experience or not. (eg. death, being eaten by worms)
+Big study at York, randomly divided people, reminded them of their religious belief system (asked them). Then randomly assigned people to an anxiety experience or not. (e.g.. death, being eaten by worms)
 In some studies gave them impossible tests, made them feel stupid.
 
 When (non-religion-reminded) people are made anxious, they became more vengeful against the group that wronged them.
@@ -302,7 +247,7 @@ William James in 1905 wrote "The Varieties of Religious Experience". He intervie
 
 ### Mindful, Communally Balanced Solutions
 
-Oddysseus was frustrated with his journey home, took 10 years, lost men, got lost at sea. Many metaphors for frustration. But he was good at being mindfully aware of the underworld, and his emotions. Had a good relationship with his men (communally balances). Because of this, he had good relationships (eg. with Circe, she told him about the Sirens). He wasn't like Achilles, didn't use glory to mask his distress.
+Odysseus was frustrated with his journey home, took 10 years, lost men, got lost at sea. Many metaphors for frustration. But he was good at being mindfully aware of the underworld, and his emotions. Had a good relationship with his men (communally balances). Because of this, he had good relationships (e.g.. with Circe, she told him about the Sirens). He wasn't like Achilles, didn't use glory to mask his distress.
 
 Theseus had his own problems - the Minotaur. He is very heroic, and he does very well, slays the Minotaur. He is a hero! But he forgets his girl, she gets in trouble, forgets about his dad. Minotaur is a good metaphor for the passions and interests we discover in our youth.
 
@@ -328,7 +273,7 @@ Ideals are a very potent form of agency, something that transcends this world. T
 
 People participate in symbolic compassionate plays to share in pain, and overcome it. Eg. Semele, Demeter, Isis.
 
-### Hindusim: Psychological Liberation
+### Hinduism: Psychological Liberation
 
 600 BCE.
 Humans have four wants:
@@ -361,7 +306,7 @@ Shiva, in this picture, has four arms. Is dancing in this world, on the fire. Da
 
 ### Buddhism: Freedom from Anxiety
 
-Life is _Dukkha_ (friction and frustration). A bad axle-hole, you have friction, it is wobbling in the hole, will have breakdowns. Life is suffering, and then we die. The reason we have this friction is because of desire (_krishna_), craving.
+Life is Duke (friction and frustration). A bad axle-hole, you have friction, it is wobbling in the hole, will have breakdowns. Life is suffering, and then we die. The reason we have this friction is because of desire (_krishna_), craving.
 There is a solution, an 8-fold path. Have to yoke yourself with your ideals, they float, they are transcendent. First 5 steps are about living right, mostly related to kindness and care for others. Last 3 steps are about getting over yourself, stopping caring about mortal things. It doesn't matter that you die anymore, because you're not focused on yourself.
 
 Strip away a lot of the ritualistic elements of religion, mostly go for the noble path. From "wandering about" to "intentional living". Don't over attach to the fruits of your goals. Stay in this world, strive in service of your ideals, but with awareness.
@@ -403,7 +348,7 @@ Then Cane and Abel. Cane gets jealous of Abel because Abel is preferred by the f
 
 - Expulsion from the garden
 - Cane becomes a wandering fugitive
-- flood is sent because the world is corrupt and filled with violence. All flesh is corrupted. Noah was righteous and fair, he was spared. Just like in Gilgamesh's story, the flood was sent to destroy humans because of their clamoring ambition. Here because of corruption and violence. Humans suffer because of the hyper-agency.
+- flood is sent because the world is corrupt and filled with violence. All flesh is corrupted. Noah was righteous and fair, he was spared. Just like in Gilgamesh's story, the flood was sent to destroy humans because of their clamouring ambition. Here because of corruption and violence. Humans suffer because of the hyper-agency.
 - tower of Babel. Build a tower into the heavens, another symbol of ambition. Punished by being confused.
 
 The nature of this wickedness that keeps getting punished is an inability to get along with other people.
@@ -419,7 +364,7 @@ Deliverance/redemption metaphors appear often in Judaism.
 - the Exodus is the freedom from bondage. Liberation/release from captivity by orienting to a righteous direction.
 - not clinging to the fruits of your actions. Story of sacrifice of Isaac (by Abraham). This is the son who was a gift by the previous angels. Abraham agreed. Not clinging to things in this world.
 - Jacob wrestled with God. Metaphor for grapple-y struggle to understand what's important and the underworld of murky emotions. Recurring theme of struggle and willingness to confront uncertainty. Struggle with it before one can commit themselves to a life's course. Instead of never deciding on a path, randomly choosing.
-- ten commandments, focusing on commitment to God and righteousness which involves loving your neighbor. Famous statement attributed to rabbi Hillel, "Do unto others as you would have others do unto you, that is the Torah, the rest is commentary"
+- ten commandments, focusing on commitment to God and righteousness which involves loving your neighbour. Famous statement attributed to rabbi Hillel, "Do unto others as you would have others do unto you, that is the Torah, the rest is commentary"
 - mistakes are okay, as long as there is a devotion to this moral ideal.
 - transcend flaws ans imperfection in this world by a righteous focus.
 
@@ -442,14 +387,14 @@ People are more easily motivated by examples, characters, than ideals. So easy t
 ### Islam: Surrender and Peace
 
 - Islam means peace or surrender, peace that one gets when surrenders will to God
-- Mecca was hub of commercial activity for surrounding areas. Hotbed of vice and violence as cultures came together without a moral code that work accross different groups.
+- Mecca was hub of commercial activity for surrounding areas. Hotbed of vice and violence as cultures came together without a moral code that work across different groups.
 - Mohammed was a trader. He got famous for his skill at mediating these situations.
-- Recited the Qoran, got chased out of town, came back, then Mecca became a Muslim town.
+- Recited the Quran, got chased out of town, came back, then Mecca became a Muslim town.
 - he created Harmony
 - similar to Confucianism
 - share ideals with a compassionate theme
 
-Mohammed revealed/purveyed how to love your neighbor. Islam is very specific about the rules of conduct and morality. Five pillars all revolve around communal connection and compassion.
+Mohammed revealed/purveyed how to love your neighbour. Islam is very specific about the rules of conduct and morality. Five pillars all revolve around communal connection and compassion.
 One god - Allah and Mohammed is his prophet. Five times a day must pray in the direction of Mecca to remind themselves that they should be doing God's will and not their own. Should give 2.5% of net worth every year to charity.
 Fast every year to remind what it's like to be vulnerable.
 Pilgrimage every year
@@ -460,14 +405,14 @@ five pillars:
 - fasting
 - pilgrimage.
 
-Judaism/Christanity/Islam all incorporated Greek philosophy. The three monotheistic religions.  
+Judaism/Christianity/Islam all incorporated Greek philosophy. The three monotheistic religions.  
 
 ### Greek philosophy
 
 Highest happiness comes from orienting towards something more idealistic/essential/virtous than just pleasure or success.
 The idea of a true being, that is more real than this stuff. Pythagoras discovered that this perfect world of truth is useful in mathematics. Where it can actually do stuff, and music. Passionately excited.
 
-Living according to ideals of society. Distinction between ideals and phenomena. There is the idea of a perfect traingle which doesn't exist in this world.
+Living according to ideals of society. Distinction between ideals and phenomena. There is the idea of a perfect triangle which doesn't exist in this world.
 
 Aristotle focused on essences which were inside things. They are the more perfect.
 
@@ -502,7 +447,7 @@ The challenge for humans is that we have all of these charioteers and horses, ne
 - Icarus should have flown the middle course
 - Pythagoras about harmony and perfect proportion
 - Socrates' golden mean
-- Aristotle thought virtue falls between two vices, eg. temperance and courage.
+- Aristotle thought virtue falls between two vices, e.g.. temperance and courage.
 
 To have virtue need to know yourself. It is really hard to know yourself because so many aspects are unconscious and murky, underworld.
 
@@ -521,12 +466,12 @@ Gave rise to the crusades, went on for 300 years. Using religion to justify war.
 
 A few hundred years later, Europe got even worse - black plague, half of the people died. Hundred-years war between England and France. Ice age, made famine more predominant.
 
-A Distant Mirror by Tuchman shows how unbalanced Europe had become. There was a complete focus on transcendent glory. The church was very focused on power and glory. Could buy indulgences for the afterlife, coffins. Could volonteer for the crusades and have all your sins forgiven. Religion became a defence mechanism.
+A Distant Mirror by Tuchman shows how unbalanced Europe had become. There was a complete focus on transcendent glory. The church was very focused on power and glory. Could buy indulgences for the afterlife, coffins. Could volunteer for the crusades and have all your sins forgiven. Religion became a defence mechanism.
 William James said that it makes the sand and grit (like dukkha) of self-hood incline disappear. Moral enthusiasm, not just religion, like what Trump spews.
 Catholic church had flown too high, lost touch.
 
-People going to the crusades bumped into Aristotle. The ignorant Muslims who were too be massacered were very knowledgeable about the Greeks. Aristotle was a proto sientist., Was interested in this world. Interest in science began again. From this rennaissance (rebirth) in science and interest in this world (and not just the transcendent world). Copernicus was the first threat to human dignity at the time. People were told that the Earth was the center of creation, but Copernicus said it was not even the center of the solar system. Guttenberg and the printing price. Protestant revolution, Galileo, Newton (Gravity). Natural laws that don’t require a supernatural hand.
-Next were Voltaire and Rousseau (enlightment and romanticism). The enlightment occurred in the 18th century. Gathered together lots of thoughtful people in an interest to make things better. An interest in humanism.
+People going to the crusades bumped into Aristotle. The ignorant Muslims who were too be massacred were very knowledgeable about the Greeks. Aristotle was a proto scientist., Was interested in this world. Interest in science began again. From this renaissance (rebirth) in science and interest in this world (and not just the transcendent world). Copernicus was the first threat to human dignity at the time. People were told that the Earth was the center of creation, but Copernicus said it was not even the center of the solar system. Guttenberg and the printing price. Protestant revolution, Galileo, Newton (Gravity). Natural laws that don’t require a supernatural hand.
+Next were Voltaire and Rousseau (enlightenment and romanticism). The enlightenment occurred in the 18th century. Gathered together lots of thoughtful people in an interest to make things better. An interest in humanism.
 
 Rousseau wrote novels and could take a lot of meaning from human emotion. Romanticism began to replace the focus of the non-wordly realm. People became interested in their emotions and feelings.
 
@@ -538,18 +483,18 @@ Mesmer made an animal magnetism tub, had groups of women come in, they would all
 
 ### 19th Century
 Freud was all about beastly passions and submitting to them. 19th century England, Queen Victoria. Seething preoccupation with sex - evident in theatre and humour.
-Still this Protestan prudery. Darwin and origin species came in. Insult to human dignity - not even centre of the planet. Feuled the fire about the importance of sexuality - it is part of our nature, we are just like the other animals.
+Still this Protestant prudery. Darwin and origin species came in. Insult to human dignity - not even centre of the planet. Fuelled the fire about the importance of sexuality - it is part of our nature, we are just like the other animals.
 
 Hypnosis, people believed there were other states beneath conscious awareness.
 
 Charcot was interested in hysteria, unconscious psychological problems could translate into physical problems.
 
-Industrial revolution was churning, Hemholtz was a doctor who popularized the conservation of energy - steam engine.
+Industrial revolution was churning, Helmholtz was a doctor who popularized the conservation of energy - steam engine.
 People living in cities, working conditions really grim. Factory workers had no life, the church had collapsed as a source of authority.
 People were supposed to get meaning from their emotions but they were constantly working (anomie).
 
 Conflict between religious ideals and temporal pleasure (worldly pleasure).
-Lot of curiousity about unconscious emotions and instincts. Legitimized by the romantic movement who said this was an important part of being human.
+Lot of curiosity about unconscious emotions and instincts. Legitimized by the romantic movement who said this was an important part of being human.
 
 ### Sigmund Freud
 
@@ -617,7 +562,7 @@ The ego has access to the preconscious, unconscious and the conscious. Same with
 - instincts in animals, give rise to drives, motivational imperatives, translate into wishes and goals
     - where our energy comes from
     - life instinct drive (libido)
-    - death instinct drive (thanatos), often translated into aggression
+    - death instinct drive (Thanatos), often translated into aggression
 - hydraulic theory was based on a metaphor
     - we have these 2 drives, that are like water in pipes
     - gives us energy to do things, and we have to let it out
@@ -694,7 +639,7 @@ Free association: complexes around feelings and thoughts that we repressed. When
 
 Freud would tell people to say something on their minds, prompted them by putting his hand on their hand. Touch used like Mesmer, touch used to release emotions. Made people feel safer.
 
-Transference: if I feel like I have issues with my parents because I wasn’t loved properly, I have it all repressed, I have all these symptoms. This therapists is a kindly person who is there for me, this is like a parental relationships, this is safe. All these things that are suppressed (eg. hidden yearnings) come up again. Find yourself falling in love with therapist, is really common. Idealize the therapist. Then you discover that the therapist is just a person, and then can vilify them. People have extreme reactions with therapists, Freud thought this was very important. Now we are reenacting the conflicts that we repressed before, displace them into the therapist. Might help the client get to the root of the problem.
+Transference: if I feel like I have issues with my parents because I wasn’t loved properly, I have it all repressed, I have all these symptoms. This therapists is a kindly person who is there for me, this is like a parental relationships, this is safe. All these things that are suppressed (e.g.. hidden yearnings) come up again. Find yourself falling in love with therapist, is really common. Idealize the therapist. Then you discover that the therapist is just a person, and then can vilify them. People have extreme reactions with therapists, Freud thought this was very important. Now we are reenacting the conflicts that we repressed before, displace them into the therapist. Might help the client get to the root of the problem.
 
 Dreams!
 
@@ -704,7 +649,7 @@ Freud thought sublimating the goal into something socially acceptable was the ul
 ### Freud on Dreams
 Were generally wish fulfilment. Very obvious in children, but in adults had sexual and aggressive themes. Since we repress it, it bubbles up into our dreams. A big part of therapy is having people talk about their dreams, the sexual and aggressive themes. This is the first step, can be worked through. Our superego/ego also permeate into our unconscious dreamspace.
 Too threatening, even in the dream world, to let the Id out.
-Have the manifest meaning - what actually happened, eg. chased by a bear.
+Have the manifest meaning - what actually happened, e.g.. chased by a bear.
 Latent content, the psychological aspect. Free association around dream content and noticing where the resistance is.
 Anxiety dream could be superego adding anxiety to disguise it. Or the dream is getting close to admitting true wishes, because moral anxiety in revealing true dreams.
 
@@ -715,7 +660,7 @@ Say the first thing that comes to mind, when see a certain word. Jung would noti
 Jung thought dream content should be saved for the smart unconscious, for delving into this resource of meaning. Not just a receptacle for sex/aggression.
 
 If Freud saw snake eating itself he’d say autoerotic. Also related to sex and aggression.
-Jung and Freud had their first big argument about one of Jung’s dreams. He dreamed that he was exploring a house, discovered bones in the subcellar. Was exciting (he used to be an archeologist) because he had recently discovered archetypes. Freud thought this was death dream, that Jung wanted to kill him. Jung decided to never impose a meaning on someone else’s dream. Freud didn’t want to talk dreams with Jung anymore.
+Jung and Freud had their first big argument about one of Jung’s dreams. He dreamed that he was exploring a house, discovered bones in the sub-cellar. Was exciting (he used to be an archeologist) because he had recently discovered archetypes. Freud thought this was death dream, that Jung wanted to kill him. Jung decided to never impose a meaning on someone else’s dream. Freud didn’t want to talk dreams with Jung anymore.
 
 Orienting towards wholeness and meaning. Waterlily or lotus flower might symbolize nourishment from the muck, someone beautiful meaning above the surface.
 
@@ -747,6 +692,327 @@ Must ring true for the patient for Jung. It’s about the pathway to personal wh
     - universe is trying to tell us something
 - precognition
     - believed in dreams predicting the future
-    - eg. dream about blood before a war
+    - e.g.. dream about blood before a war
 
 ## Week 4 - Traits (Jan 26)
+
+### Sources of Personality
+
+Is it more nature or nurture? Most people in this class thought nurture/both. Freud thought it was parents/nurture.
+
+Freud thought of personality in terms of character. A function of mediation of graceful feminine presence. Can impart love and allow you to flourish. 
+Intervening gracefull loving figure was the mom. If she screwed up, the child would be screwed up in various ways. 
+
+### Freud on Nurture
+
+Oral fixation occurred at a certain stage. Around the stage when you are an infant, breastfeeding. Everything is focused on the breast. If the child doesn't get enough satisfaction, then they will feel hurt and angry and will have a fixation.
+
+If they have too much access, they will get fixated as well. Mom has to walk a fine line to avoid her child's fixation.  
+
+The rolling stones logo is a tongue and lips, Mick Jagger has an oral fixation. Someone might analyze him and say he has an oral fixation. Simpler solution: maybe he is just born this way.
+
+Next big drama in child's life is toilet training. Freud thought if you were too aggressive in wanting them to get trained, the pressure would get to them. They would start to suppress it. Some kids would not go for days. Leads to anal retentive in personality. Super organized, always want everything to be perfect. 
+
+Anal triad: stubborn, orderly, stingy (SOS) 
+
+Maybe this is just the way they are born - born not open to experience. 
+
+The next stage is the phallic stage. Walk around touching them and showing the genitals everywhere. Parents often freak out when the kids do this as this makes everyone uncomfortable. Kids get a shaming/extreme reaction when they notice that things feel good. Get a phallic fixation that shapes their life. Serial lovers. Compensate by becoming powerful to influence and win over other people. Superiority complex. Could also just be traits that are intrinsic to the person. More parsimonious explanation. 
+
+The genital station is when you get past your own erogenous zones and start caring about other people's genitals. Start caring about other people's enjoyment/orgasms. Sublimate that to charity and giving back to others.
+
+All of these fixations can either come from too much or not enough of the stage's key elements. 
+
+### Mick Jagger
+
+Grew up in a suburban town in England. Went to the London school of economics for a year and then dropped out to start a band. They were having fun, got famous. Got arrested on drug charges, eventually this guitarist Brian Jones dies of drugs. This is Mick's Gilgamesh moment. Has a free concert for his friend.
+
+Later have a concert where someone at the concert tried to rush the stage and got stabbed. Mick felt responsible. They had just finished playing "sympathy for the devil" so he got the reputation for being dark/satanic/murderous.
+
+This is the time that lots of people were dying (Jimi Hendrix, etc.) Lots of 27 club members. Instead, Mick Jagger stayed alive, stayed friends with Keith Richards (smack addict). They've been together almost 50 years.
+
+Mick Jagger is liky Odysseus - he is able to continue relationships despite repeated frustrations. He is in touch with his feminine side, often wears makeup, prances around.
+
+Also in touch with his murky emotional side. "Jumping jack flash" was about a guy who had a bunch of adversity and triumphed over it. Mick identified with being a survivor. Knew about his feminine side, his dark side. 
+
+Was part of the "sex is okay" revolution. Prototypical hero. Descended into the darkness (acid trips, etc) then comes back with a heroic gift for humanity (have lots of sex was his message). 
+
+Might say that he was hyper-agentic. Keith Richards says he is an ego-maniac and his hard to be around. Perhaps his anxious experiences in the phallic/oral stage made him this way. 
+
+### Was Freud Scientific?
+
+Generalized from his own life to the broader sense.
+
+Didn't really define his terms, what exactly is an oral fixation? When the terms are fuzzy, it can make anything fit the conclusion. For good science need to define the criteria beforehand, otherwise unfalsifiable.
+
+Similarly resistance is hard to falsify. 
+
+Want the study facilitator to not be invested in the theory (like Freud was). Unbiased and blind.
+
+### Projective tests: Assumption
+
+Thematic episectoin test. Tell what you think is happening in a picture, this leads insight into the person's personality. Scientists defined manuals to more precisely follow scientific methods.
+
+### Murray
+
+Was a medical doctor, wanted to make it more scientific. His theory was that people have these unconscious biological needs.
+
+The environment also primes these needs. Called "press". If you have a combination of a need and a press, then you have motivation.
+
+Need for aggression, then go to a boxing match (press) this will give you a primed agressive motivation.
+
+Need for nurturing, then go to therapy, then you will well up with motivation to be cared for which is where transference comes from.
+
+Same psychoanalytic assumptions that people will be unwilling to report certain things - need to access them with projective tests to find out what people are thinking underneath it all. 
+
+We might have different results on projective tests from day to day, this is because the press may not be there every day.
+
+Main problems is that the tests are not reliable, cannot predict anything. 
+
+Research on this is almost dead, except for a few people who coined the "Self-Determination Theory". Motivational theory that people have 3 main needs:
+
+- relatedness: capacity to give and receive love
+- competence: be effective in goals
+- autonomy: being able to make choices
+
+Murray had 27 needs in contrast.
+They say that if you are able to express these needs, will have intrinsic motivation. Without these, will be depressed and low. 
+
+People who have these capacities have better facets of their life (academics, well-being, relationships, etc).
+
+This is the last branch of this motivational tree that Murray began in his attempt to make Freud's ideas more scientifically defined. 
+
+### From Motives to Traits
+
+Freud's theories eventually went out of style. Academics started seeing psychoanalysis in bad ways, the assumption was questionable: is personality really all about sexuality?
+
+The cognitive revolution was that people actually said what they meant. If you want to know something about someone, just ask someone - they might tell you.
+
+Personality is less about character/virtue/extremes. 
+
+Murray wrote his book in 1938, his colleague Gordon Allport released his in 1937. Allport decided to keep it simple. Went to see Freud, saw a really unkempt kid on the bus. During an awkward encounter with Freud, he made small talk about this boy, and Freud said that he saw himself as the boy. Turns out Allport was actually a neat freak. Allport vowed to himself that he wouldn't go down this rabbit hole and keep his theories more simple. Asks people about their personalities.
+
+He collected 4500 trait adjectives in English and thought of these as personality traits. 
+
+A __personality trait__ is used to describe a person's tendencies across time and context. Traits fall along the normal curve - average traits have the most number of people. 
+
+Focused on test-retest reliability. Also internal consistency reliability (if they say they are funny, they wil also say they make people laugh). 
+
+### Personality Psychology
+
+1960s zeitgeist was really in favour of social psychology. Times were changing. 
+
+Millgram study (prison study) showed the power of the situation. Personality was the poor cousin that people weren't that fond of.
+
+Some of the nazi scientists were doing eugenics research to see if certain personalities were heritable, the research naturally got a bad reputation.
+
+Walter Mischel reviewed the literature and he thought that personality traits were distateless, and they also couldn't predict things in the real world. Social psychology predicts things, but the personality scale doesn't predict anything reliably. 
+
+The big 5 traits organization came out in the 80s. Became a common language for psychologists to agree on. They were stable across time and context (basic personality traits). Not necessarily that you are funny because of the people around you. These big 5 will persist across time and context. Also there was a degree of heritability. 
+
+### Big-5
+
+Computers allowed for factor analyses. Catell had people rate themselves on the 4500, did factor analysis and got 12 traits. 
+
+Then Fiske boiled it down to 1700 adjectives, which clumped into 5 clusters. Other researchers replicated the results among other cultures/languages/ages/non-verbal methods.
+
+Could predict real things with these, like politics and divorce.
+
+#### Factor analysis
+
+Run correlations, factor each adjective to see how well it fits into a group. Boils them down. People stay in the same rank of personality traits as they go through life. Women are at peak neurotism in their 20s, goes down later in life. 
+
+The Big Five (a-theoretical approach):
+
+- openness: intellectual, complex, unconventional, creative, original (MORE)
+- conscientiousness: dependable, disciplined, organized, careful (MORE)
+- extraversion: enthusiastic, outgoing, talkative (AVERAGE)
+- agreeableness: sympathetic, warm accepting, friendly (LESS)
+- neuroticism: anxious, easily upset, moody (AVERAGE)
+
+These weren't generated very scientifically, just seeing which adjectives stick together. 
+
+### Meyer's Briggs Test
+
+Jung thought people were born with individual differences, he theorized some traits. He thought some people were either extraverted or introverted, intuiting or sensing, feeling or thinking, judging or perceiving. 
+
+Jung thought that people were born with traits that were either inward or outward focus of attention. (Extraversion)
+
+Sensing vs intuiting mode of perception. Some people are more abstract, in the world of ideas, others like to use their concrete senses. People that are highly open are also usually highly intuitive. 
+
+Feeling vs thinking, how you make decisions. 
+
+Perceiving vs judging. Whether you like to get more information (see what we think later) or just deciding right away. 
+
+Jung had an elaborate theory for how these modes interacted together. 
+
+Meyers briggs measures four of the big five. This scale is incredibly popular. Less pejorative, nicer terms, no neuroticism measured. All of the traits are "nice." It makes everybody "beautiful in their own way." 
+
+Strong genetic contribution to these traits. 
+
+### Types are inaccurate
+
+Dichotomizing is not how traits work, they exist on a continuum. Most people are in the middle. 
+
+### Personality Genetics
+
+What accounts for the variability in traits? 
+
+- shared environments (usually lingo for parents/nurture)
+- heritability (genes/nature)
+- other
+    - unique experiences
+    - culture
+    - social norms
+    - womb/birth
+    - measurement error
+
+
+### Genetic Similarity
+
+Twin studies try to elimate the shared environment aspect. Siblings and non-identical twins are 50% similar. Identical twins share 100% of genetic material. 
+
+They are studies by looking at pairs of siblings. Compare the correlation between non identical siblings and identical sibling pairs. 
+
+Adopted parents and kids: might think they'd adopt their parents personalities. Turns out 0 correlation.
+
+Adopted siblings: 0 on average. No more different than completely random people. Maybe it is because adoptive parents act in a certain way.
+
+Biological kids and parents: 0.1 - very low correlation. 
+
+Biological siblings: 0.1 - very low correlation.
+
+Non-identical twins: 0.25, still not very high
+
+Identical twins: 0.5 
+
+Identical twins raised apart: (separate them at birth and raise them differently) 0.5
+
+Looks like parenting does not affect normal personality. 
+
+### Heritability Estimates
+
+(correlation for identical twins - correlation for siblings) * 2 * 100% = % of variance hereditary
+
+About 50% for most traits
+
+### Where's the other 50% (or 30%)
+
+Shared environment has no effect. 
+
+Maybe it is due to measurement error, multiple raters boost heredity to 70%.
+
+Perhaps environment isn't really shared - parents treat kids differently. 
+
+Harris: maybe it is evolutionarily advantageous for the parent to not influence their child's personality - they don't procreate with their parents. 
+
+Change is possible, genetic predisposition is not absolute destiny. 
+
+### Heritability
+
+- height - 0.9, but environment can affect this (e.g.. malnourishment)
+- weight - 0.5, some people overcome this with willpower
+- marriage - 0.68, heritability of staying married. That's pretty high! You can still divorce the person, but these traits make them inclined to stay with the person. 
+
+Heritability estimates can't be applied to a single person. 
+
+Heritability does not mean constant or fixed:
+
+- people are getting taller over time
+- people are getting smarter
+- heavier
+
+but the predisposition to these things is hereditary. 
+
+### Personality changes
+
+People generally get better over age:
+
+- more introverted
+- less open
+- more agreeable
+- more conscientious
+- less neurotic
+
+Lifestyle factors can change personality:
+
+- leaving home
+- marriage/divorce/death of a family member
+- career/retirement
+- becoming a parent
+- therapy
+
+### Line bisection exercise
+
+Guess where the halves are in a piece of paper, then fold it to find the exact. Some people err on the side of the left, others on the right.
+
+So right tickers have more left brain activity (not sure if this is what he said)
+
+### Traits and divorce
+
+Divorce is highly heritable, how is this?
+
+What if identical twin and parents got divorced? 80% divorced
+
+What if identical twin and parents stayed married? 10% divorced
+
+People who are open to experience are more likely to get divorced. Novelty is interesting
+
+Consciousness is inverse to divorce. 
+
+Neurotic people are more likely to get divorced.
+
+Extraverts (active and social, going out, meet people) more divorce. 
+
+Agreeableness has no relationship with divorce. 
+
+high E, high O, low C, high N, 4 = 0.4
+Traits also predict the identical twins likelihood of divorce the same way. (don't need their own traits)
+Completely ignores the partner's traits. 
+
+Heritable traits predict propensity towards divorce. 
+
+### Trait correlations with major life goals
+
+- E and C want to make a lot of money (-o, -A)
+- Career and graduate school (C)
+- aesthetics - O
+- Social welfare (A)
+- relationships and children (E)
+- Political influence (E)
+- fun and excitement (E)
+- personal growth (O)
+- traditional marriage (-O)
+
+### Traits and Attitudes
+
+- crossword puzzles (70% correlation)
+- immigration
+- euthanasia
+- abortion
+- racial discrimination (74%)
+- organized religion (44%)
+
+### Openness to experience
+
+- aesthetics
+- fantasy
+- novelty
+- values
+- actions
+- feelings
+- ideals
+
+highly open people are really excited about sex and trying new things. Less open people like to try new things less.
+
+Politics: there is the great divide. High open (democrats) vs low open (republicans). 
+
+Conservative religion vs modern religion. 
+
+Open people tend to marry open people. All the other traits are pretty random in marriage, but openness as a strong correlation. 
+
+### Are you better or worse than average?
+
+Most people think they are better.
+
+
