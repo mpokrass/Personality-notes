@@ -1,6 +1,6 @@
 # PSYCH 356 - personality
 
-[toc]
+[[toc]]
 
 ## Week 1 - Myth (Jan 5)
 
