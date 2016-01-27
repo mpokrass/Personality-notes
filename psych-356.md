@@ -5,7 +5,8 @@
 - [Lecture 3](#week3)
 - [Lecture 4](#week4)
 
-## Week 1 - Myth (Jan 5) <a name="week1"></a>
+<a name="week1"></a>
+## Week 1 - Myth (Jan 5) 
 
 Main theme: living well in anxious times. How do people live "sophisticated" lives under anxious circumstances.
 
@@ -220,7 +221,8 @@ Narcissus is classic example of hyper-agency.
 - makes people lose touch with reality and community
 - Odysseus and Greek solutions are about mindfulness, balance, and communal solutions
 
-## Week 2, Religion - Jan 12 <a name="week2"></a>
+<a name="week2"></a>
+## Week 2, Religion - Jan 12 
 
 Religion gets a lot of press lately, a lot of it is bad, like the current extreme Islamism.
 
@@ -456,7 +458,8 @@ To have virtue need to know yourself. It is really hard to know yourself because
 
 We are all ignorant. Plato's cave, we are chained to our ignorance. There is more to know than we think.
 
-## Week 3, Psychoanalysis - Jan 19 <a name="week3"></a>
+<a name="week3"></a>
+## Week 3, Psychoanalysis - Jan 19
 
 Miley Cyrus is sex and aggression personified
 
@@ -697,7 +700,8 @@ Must ring true for the patient for Jung. It’s about the pathway to personal wh
     - believed in dreams predicting the future
     - e.g.. dream about blood before a war
 
-## Week 4 - Traits (Jan 26) <a name="week4"></a>
+<a name="week4"></a>
+## Week 4 - Traits (Jan 26) 
 
 ### Sources of Personality
 
