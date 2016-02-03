@@ -4,6 +4,7 @@
 - [Lecture 2](#week2)
 - [Lecture 3](#week3)
 - [Lecture 4](#week4)
+- [Lecture 5](#week5)
 
 <a name="week1"></a>
 ## Week 1 - Myth (Jan 5) 
@@ -1022,4 +1023,437 @@ Open people tend to marry open people. All the other traits are pretty random in
 
 Most people think they are better.
 
+<a name="week5"></a>
+## Week 5 - Biology (Feb 2)
 
+### Big-5
+
+There was a lot of care taken to ensure that the big-5 traits were independent. But for the last 15-20 years, it turns out the 5 traits are actually not independent. 
+
+Extraversion and agreeableness are independent.
+
+Neouriticism and low agreeables are dependent.
+
+Neuroticism and conscientiousness are correlated. Neurotic people less conscientious. 
+
+These go together to form _meta-traits_. 
+
+### Meta-traits
+
+Neurotic, low agreeable, low conscioustness is the anxiety meta trait. This is new research. 
+
+Extraversion and openness are the approach meta trait. Plasticity trait, receptive and responsive to perterbations in the environment. Eagerly oriented towards change. 
+
+Some people measure how often you smile. Focus on these top two levels though.
+
+#### Anxiety
+
+This system is good at detecting obstacles/frustrations/uncertainties. It is a very useful tool to tell us when something needs to be avoided/changed. Very important in some environments. 
+
+- Hesitation
+- negativity
+- vigilance
+- bad feelings (N)
+- social distrust (A)
+- motivational instability (C) 
+
+#### Approach
+
+- Eagerness
+- hope
+- inspiration
+- exploration
+- it is absorbing. When the approach system is on, it helps you stay committed to a goal that is going well. 
+- useful during hunting - don't get distracted, stay confident
+- energetically pursue goals and social contact (E)
+- diverse concrete and abstract incentives (O)
+
+### Facets of Big 5 traits
+
+#### Neurotic
+
+- __anxiety__
+- depression. very highly correlated with anxiety. Can't stay anxious for long without getting depressed
+- vulnerability. Become vigilant, negative when anxious. More likely to see negative stuff, makes you vulnerable
+- self-consciousness
+- impulsiveness
+- angry hostility
+
+All of these lead to a negative overarching state. Theoritically you shouldn't be impulsive during anxiety, but because you have a negative state they cause this.
+
+One way to get out of an anxious state is to find something to approach. People who are feeling vulnerable/self-conscious/depressed, they have few goals. Things that they can approach are impulsiveness. 
+
+Approach system can be improved through impulsiveness/hostility. Anger is an approach-motivated emotion. Need to get towards someone to yell at them. 
+
+#### Disagreeable
+
+- not trusting, cynical
+    - unlikely to see the positive side
+- not straightforward secrets, elusive
+- non compliant, uncooperative
+- not altruistic, selfish
+- not tender-minded, callous
+- not modest, arrogant
+    - all the previous are vulnerable
+    - being arrogant and not modest doesn't make sense
+    - but everybody hates people who are arrogant
+    - disagreable people don't mind
+    - positive self-ideal activated the approach system
+
+If you are diasagreeable, most of your goals/tasks in life will be difficult.
+
+#### Unconscientiousness
+
+- low self discipline
+- low deliberation, thoughtless
+- unreliable, not dutiful
+- low achieving, careless
+- low order, disorganized
+- low competence, failure
+
+Many caused because you are so focused with dealing with possible dangers.
+
+The first 2 are interesting though, low level accessible ways for anybody to get out of an anxious meta-trait state. 
+
+#### Extraversion
+
+- approach rewards/excitement
+- positive emotions
+- assertiveness
+- activity
+- gregariousness
+- warmth
+
+Often moving towards other people. Smiling, enjoying other people. The more action based aspects of approach, openness is the more cognitive aspect.
+
+#### Open
+
+- actions
+- imagination, fantasy
+- feelings
+- ideas
+- values
+- aesthetics
+
+Let the mind wander freely without anxiety. Highly open people want to try new things. 
+
+### Anxiety and Approach Processes
+
+Pavlov began his research before Freud. First noticed that 2 kinds of dogs. One very anxious type, other extraverted. Excitatory and inhibitory dogs. Excitatory dogs expecting rewards, other dogs scanning for troubles. 
+
+Eysenck was very prominent. He has the big 2: neuroticism and extraversion. Lots of studies showing that neurotics don't want negative things to happen (make mistakes). Extraverts go for speed - don't care so much about mistakes. (In tests)
+Did the first twin study, 40 years before others. Concluded that personality traits were highly heritable.
+
+Gray (Eysenck's student) studied rats' personalities. Found 2 systems: BIS (behavioural inhibition system) and BAS (activation). 
+He is the theorist who discussed how the two systems interact. The two systems are reciprocal. 
+
+DeYoung split into instability vs plasticity.
+
+In his lab, trying to find neural signatures of the activity of these two system. ACC (anterior cingulate cortex) top of the brain registers when goals are not going well. Reliable negative voltage deflection. Magnitute of this reflects the magnitude of anxiety. 
+Left frontal is more active during approach motivation - eager states. 
+
+Neurotransmitters - low serotonin predicts high activity in anxiety. High dopamine predicts high activity of the approach system. 
+
+Are anxiety and approach processes related? Reciprocally inhibitory? Gray's student revised his theory. Widely accepted that these 2 symptons are reciprocally inhibitory. High approach system dampens the anxious system. At a trait level, can be high or low in both.
+Recent study that looked at people's brain activation looked at left frontal vs right frontal brain activity. Made people make errors in the lab, measured anxiety response (ACC). Found that approach motivation seemed to be associated with muted error negativity. Anxious people had a higher response. 
+
+ACC detects survival relevant information, feeds forward to neocortical part of brain to act on the information. 
+"Uh oh" detection and correction system. Important to have this to correct problems. This is the dukkha system (not getting what is wanted). 
+
+### Anxiety and BIS
+
+ERN is a very quick marker of anxiety related symptoms. Other symptoms of anxiety in the behavioural inhibition system. 
+
+When this anxiety system is triggered, automatic supression of goal-related activities. Animals actually stop in their tracks. Something isn't going well, need to stop what you're doing. 
+
+Anxiety to discourage persistence in what you're doing.
+
+Vigilance to scan for alternatives. 
+
+Arousal and readiness for action (cortisol). Something isn't going well, stop and reassess. 
+
+If you drug this system with alcohol, you don't notice or mind errors too much. Lubricates social events becase no longer worried with small things. If you take an animal and cut this part of their brain out (lesion it) they end up like bart simpson, can no longer get around obstacles. 
+
+### Goal Regulation
+
+Approaching your goals in the morning when you get up. When hungry, start foraging for food.
+
+Mouse wants to get food, smells cat. Want food, smell predator. This is an approach-avoidance conflict. Simulataneus activation of approach and withdrawl system. Don't see a cat, still approach food, but have anxious vigilance. Will keep foraging, look around for the cat. 
+The mouse might get to a place where they don't smell the cat anymore, then resume eager absorption without distractions. This is an adaptive process of behavioural inhibition system. 
+The problem comes when you can't escape. Like when you're a human and you're aware that you're going to die. Will never lose this "Scent", so how can you lose this anxiety. 
+This system evolved before new evolutionairy problems, like contemplating death. This anxiety system keeps on festering, pumping out cortisol, makes you unhealthy and depressed. 
+
+### Approach, Anxiety and LEft Frontal Assymmetry
+
+Clinical studies on humans with lesions. Strokes that affect each side. Other side wins if one side is down.
+
+People with right side lesions (left side active) tend to be happy/hopeful but a little shallow. 
+
+People with left lesions, they are more moody/sad/unstable. Takes away the approach motivation. Since they are reciprocal, makes the anxiety system more dominant. 
+
+Left frontal assymetry comes from "wanting". Occurs when you put sugar on a baby's tongue.
+
+Power, commitment, anger can activate left frontal asymmetry. 
+
+We also approach abstract things, ideals, values, meaning. Approach these things, the kind of person you want to be.
+
+Certainty, conviction, rationalization also approach motivated. "I didn't want it anyway." Freudian defence mechanisms - approach system downregulating the other system. Anxious people often do non-anxious things. 
+
+Phineas Gage: got a pike through his head, went through his left frontal lobe. He was nice before this, he became profane/rude/impulsive/fitful/impatient after. Animal passions prevailed. 
+
+Just left the anxious part of his brain (BIS prevailed). 
+
+### Line bisection activity
+
+Left brain active, see more stuff in right visual field (not sure, wasn't paying much attention). 
+
+- left brain activity, right visual field prominent. 
+- more prominent right visual field makes it seem wider
+- rightward bisections
+- then check with thumb/finger
+- extraversion linked to approach, if extraverted then should be right-ticker. 
+
+Correlations between right ticking and eeg. r = 0.38
+More left frontal activity, more tendency to tick to the right
+
+Approach motivation: purpose
+
+- makes you feel calm, eager
+- absorbed
+
+### Brain damage
+
+Need to have the other system for safety. Uh-oh system to notice dangers. Some people with brain damage only have one system active. 
+
+Right hemisphere stroke, left frontal dominant. This makes their commitment/engagement system more active, anxiety less active. 
+
+Sometimes have left arm paralysis if the damage extends into the motor area. 
+
+Ramachandran did a study on patients with left hemisphere stroke and left arm paralysis. Deny that their arm is paralyzed. 
+Ask them:
+
+- can you use your right/left hand
+- are both hands equally strong
+- point to nose with left and right hand
+
+During left hand non-movement, they say they are pointing to the nose when they are not. Sounds like a Freudian defence mechanism. 
+
+Asl them if they can clap as well, say they are clapping.
+
+Make excuses/rationalize why they can't do it.
+
+5 to screw in a lightbulb, 10 to tie shoelaces. They choose shoelaces, then claim to have done it succesfully. No frustration in failure, they are in complete denial.
+
+Give them a tray, it falls completely. 
+
+If you take a syringe of ice cold water and flush their left ear canal with it. This awakens the right hemisphere. Ask them again about the arm, they know that is paralyzed, and that it has been paralyzed for a while.
+
+90 minutes later back to the old behaviour.
+
+When the anxiety system is knocked out, the approach system can run amuck. 
+
+### Aggression, Anxiety, Cortisol
+
+Cortisol is adaptive, short term. The body is ready for action. In the long term, is unhealthy. Supresses the immune system, leads to depression. 
+
+Agressive hyperactivity predicts low cortisol. Low anxiety response. One possivle explanation is that engaging the approach system is a defence against this. 
+
+Socipathic types free themselves from anxiety by becoming so commited to their aggressive ways. Also possible that people with low anxiety people don't care about the consequences and become sociopathic in response. 
+
+Reactive approach motivation: when people are anxious, they don't just become aggressive, they spontaneiously lunge towards whatever goal is salient for them. Go for it with increased tenaciousness - mutes anxious distress. Religion, chocolate, goals, etc.
+
+### Nature and nurture of traits
+
+Genes code for neurotransmitters and hormones affect brain function and laterality.
+
+Environment has a reward history. Nonshared family environment. Habits.
+
+All of these can also affect brain function leading to personality traits. 
+
+### Neurotransmitters for Anxiety and Approach
+
+- Serotonin for anxiety
+- dopamine for approach
+
+SSRIs act on serotonin receptors that are inimately linked with anxiety and depression.
+
+Dopamine and associated neurons are specialized for the approach system. Cocaine also acts on these neurons. To get a rough idea of high activity of approach system, try cocaine. Grandoise, eager. 
+
+### Serotonin Molecular Genetics
+
+One gene codes for one protein.
+
+5HT(serotonin). 5HTT (serotonin transporter) gene has several allelles. Can also be called polymorphism, many forms. Same gene, many versions. There is the original gene, by mutation, some of it gets taken away. The half left can still create the protein but less stuff. Or it gets doubled or tripled.
+
+Still creates the protein, but it may get weird. 
+
+The gene is necessary for efficient functioning of the serotonin neurons. Helps transport serotonin accross the synapse (between axon and dendrite of to serotoneurgic neurons)
+
+Short version functions less well than the long version of the allele. 
+
+Since serotonin is linked with anxiety, people with a short version should maybe be more succeptible to anxiety and depression in their lives. 
+
+Asked people how many stressful life events they have had. (eg death of a family member, marital breakdown, losing a job)
+
+Also analyzed genetic material, see SS or SL or LL. Found that SS people were much more likely to have depression if more stressful events. If non-stressful events then same odds as LL people. SS people with stressful life have a 0.4 chance of getting depressed. Diathesis stress model.
+Serotonin is necessary for coping with stress (a well functioning serotonin system).
+
+Other researchers found that people with SS alleles when put into an fMRI machine, found that their amygdala (scans for emotionally relevant stuff, think of it as Id) are especially more reactive to negative stuff. Their amygdala's focus more on bad stuff.
+
+Rhesus Macaques are the nastiest of macaques. Constantly pushing eachother around. They will constantly vie for the alpha positions. 
+Article looked at their genes. Genes that code for serotonin efficiency. These macaques had the highest likelihood for more anxious allele connections. Even in other primates,  there is the same tendency to be more reactive with a suboptimal serononin system.
+
+All of these finding are less ceratin than they seem in textbooks. 
+
+### Neuroticism and the Brain
+
+Central anxiety related trait. We don't think about anxiety as the right side.
+
+Left frontal goes well with approach, but right frontal and anxiety is less reliable. Doesn't always correlate - ERN is a better metric. 
+
+If you confront people with threats, eg failure, does cause an immediate spike in right frontal EEG. Sometiems these threats make people feel more depressed.
+
+Study also linked ERN to neuroticism. Measured big-5 than confronted people with uncertainty, which is especially noxious to neuroticism. Approach-anxiety conflict is the essence of neuroticism. 
+
+Neurotics exposed to uncertainty produces highest ERN. 
+
+The serotonin transporter gene (5HTT) has innefficient short version - S, and efficienct - L. People with SS have a higher amplitude of the ERN response. 
+
+Amygdala is more thread selective with the SS alleles. Tracks motivationally relevant stimuli. Some people's amygdala's are more focused on opportunities and good things.
+
+First line of defence against anxiety/deression is SSRIs, prozac. Serotonin closely linked to neuroticism. 
+
+### Unconscientioussness and the Brain
+
+People who are anxious should be particularly careful, but they are surprisingly not. Conscientiousness is self control, conrolling impulses. 
+
+OCD (low impulse control - thoughts can't control, then do the obsessive behaviours that can't control). People with OCD also have high amplitude ACC-ERN responses. 
+
+Low serotonin is linked to impulsivity. 
+
+OCD related to SS alleles for 5HTT
+
+People prescibe SSRIs for OCD. 
+
+The OCD cycle:
+
+- obsessive thoughts 
+- engage in compulsions (give some relief)
+- only short term, then back to the obsession again
+
+Compulsions activate the approach system, temporarily downregulate the anxious system, but only temporary because not fulfilling goals.
+
+### Oxytocin - trust hormone
+
+Another area of research where the confidence rating is low. Occasional failures to replicate. 
+
+This the feeling after sex is an oxytocin experience. Human touch releases ocytocin, breastfeeding, sex. Bonding hormone makes people trust/like others, facilitates social interactions. 
+
+In the animal kingdom, humans and praire voles have lots of oxytocin. Prairie voles pair up, males stay together to raise their pups. 
+
+Bonobos have high oxytocin levels. Constant orgy. Very low anxiety/aggresion. Bonobos are our closest genetic relatives. 
+
+### Agreeableness and the brain
+
+Serotonin agonists increases oxytocin.
+
+Oxytocin reduces ERN. 
+
+Reduces social threats, lets people trust others more. Trust games. 
+
+Amygdala becomes less reactive to social threats after oxytocin. 
+
+Can but "liquid trust" vials. One study with a bunch of people with borderline personality disorder - have antisocial phases. Gave them oxytocin, but it actually made them worse. When people get some influence into their system that is highly unusual it can cause anxiety. It is definitely not a cure-all. 
+
+### Personality Accross the lifespan
+
+Other evidence of these traits comes from developmental trajectories accross time.
+
+Over a million people, looked at various ages, average levels of certain traits.
+
+Traits (3 anxiety traits) tend to change around the same times, suggesting that similar hormones/neurotransmitter processes may be responsible for the same changes.
+
+Women have a puberty spike for neuroticism, then it gets better. Men don't have a spike, they have a dip. Maybe it's because of male gender roles. Maybe there is a spike in testorone during young adulthood (activate approach system and supress anxiety).
+
+Dip in conscientiousness in early adulthood, then goes up for rest of people's lives. 
+
+Agreeableness drops in teenage years, but then rebounds as well. 
+
+### Dopamine and approach
+
+High concetrations of dopamine around the incentive and reward center of the limbic system. Also the left frontal cortex - the thinking part of the brain. The conceptual approach and also the concrete animal approach both mediates by dopaminergic neurons. 
+
+For synapses to work, the synaptic cleft needs to be cleared before next transmission.
+
+For good transmission need:
+
+- good recievers to catch transmitter
+- good enzymes for breaking down transmitter and reuptaking them for reuse 
+
+Dopamine receptor D4 (DRD4) is like the serotonin transporter. Helps transport the leftover neurotransmitter back into the axon for reuse. This receptor is a protein, coded for DRD4 gene. 
+
+4 repeat allele (normal), 7 repeat mutation. 
+
+People with the 7 repeat have link to novelty/sensation seeking. Problems with dopamine/wanting, they are impulsive in sensation seeking. 
+ADHD is linked to two copies of this 7 repeat allele. When the approach system is not functioning properly, people have a hard time supressing desires. 
+
+### MAO and molecular genetics
+
+MAO collects and breakdowns the used neurotransmitter in both dopamine and serotonin synapses. 
+
+There is a gene that codes for this enzyme. Doesn't create enzymes that work as well (bad allele)
+
+People with this allele are more likely to have conduct disorders, especially if they are in stressful environments. Gene-environment interaction.
+
+Aggresion/sensation seeking are both approach motivated. 
+
+### Amygdala: Atention to + and - cues
+
+fMRI study, sends magnetic (highly) impulses into brain that interact with oxygen molecules and make them visible to a scanner. Where there is more oxygen, there is more blood.
+
+If a big Blood Oxygen Level Dependant (BOLD) response, that is a higher activity location in the brain. 
+
+A study correlated extraversion scores with amygdala responses to happy/unhappy stimuli. The amygdala is like the Id, notices things that are creature-ly good/bad. I could mate with that, that could eat me.
+
+Extraverted people are focused on incentives, approaching possible positives. They found that people with higher extraversion scores had higher BOLD responses after seeing happy scenes. They were extra motivated by seeing happy scenes. Their amygdala is scanning for happy things. Also showing happy faces or fearful faces (social cues). 
+
+Happy scene correlation was 0.79 for extraverts
+
+Fearful faces, 0.2 correlation
+
+Happy faces, 0.71 correlation
+
+Extravert brains are scanning for positive opportunities. 
+
+### Openness and the brain
+
+Dopamine increases the appeal of novelty. Very left prefrontal cortex.
+
+Cognitive component of approach. Engaged by thinking of new possibilities.
+
+Schizophrenia - very open to new possibilities, not constrained by reality. These people have very extreme dopamine receptors. 
+
+### Extravarsion and the brain
+
+Dopamine is the concrete/more active version of openness. 
+
+Cocaine mediated by dopamine receptors. 
+
+Dopamine is a neurotransmitter that is very related to the approach meta-trait. (ocytocin is a hormone)
+
+Testosterone also increases extraversion, inhibits fear (amygdala).
+
+A big biological contributer to testosterone is having a Y chromosome. Men have way more than women. Why is testosterone related to extraversion/approach?
+
+A study took girls/boys into lab and asked them what they do if they are playing and someone takes their favourite toy. Coded the responses for aggression (chase, hit) versus passive (cry, tell the teacher, be sad). Boys had more of the active responses. Maybe this is because of gender roles, socialization. When fetus' brains are chaning in-utero, in the sensitive period when the fetus is becoming male/female. What if during this time, pregnant women are given testosterone analogues. They found women who had this. Brought these kids into the lab, asked them the same question.
+Both boys and girls exposed to more testosterone produced more active responses to provocation. 
+
+Another study asked about toy preferences. Kids came into a toy heaven, let them choose the toys they want and do whatever they want. Coded whether the toys were active (guns, cars, weapons, balls, things that move) or passive (dolls, pens, art). Noticed same - boys more likely to choose boy toys. Socialization argument also works here too,
+
+Took similar kids who had been exposed to more testorone in utero (due to conditions/medication), found that the girls had the same preference for boy toys as the boys.
+
+Biological basis (through testorone) for male preferences for approach related activities. 
+
+### Finger lengths (2D:4D)
+
+On average, men have a longer 4th digit than 2nd. Higher testosterone levels correlated with longer 4th digit. 
