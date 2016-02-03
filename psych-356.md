@@ -329,7 +329,7 @@ Doctrine of "mean between extremes". Why is extremism so tempting?
 
 ### Taoism
 
-The gist of it is that emptiness is good. Self-assertion, hyper-agency are wrong. Humility, quietness, blance, are the important things.
+The gist of it is that emptiness is good. Self-assertion, hyper-agency are wrong. Humility, quietness, balance, are the important things.
 
 ### Zen Buddhism
 
@@ -372,7 +372,7 @@ Deliverance/redemption metaphors appear often in Judaism.
 - Jacob wrestled with God. Metaphor for grapple-y struggle to understand what's important and the underworld of murky emotions. Recurring theme of struggle and willingness to confront uncertainty. Struggle with it before one can commit themselves to a life's course. Instead of never deciding on a path, randomly choosing.
 - ten commandments, focusing on commitment to God and righteousness which involves loving your neighbour. Famous statement attributed to rabbi Hillel, "Do unto others as you would have others do unto you, that is the Torah, the rest is commentary"
 - mistakes are okay, as long as there is a devotion to this moral ideal.
-- transcend flaws ans imperfection in this world by a righteous focus.
+- transcend flaws and imperfection in this world by a righteous focus.
 
 ### Christianity: Sin, Sacrifice, Salvation
 
@@ -415,7 +415,7 @@ Judaism/Christianity/Islam all incorporated Greek philosophy. The three monothei
 
 ### Greek philosophy
 
-Highest happiness comes from orienting towards something more idealistic/essential/virtous than just pleasure or success.
+Highest happiness comes from orienting towards something more idealistic/essential/virtuous than just pleasure or success.
 The idea of a true being, that is more real than this stuff. Pythagoras discovered that this perfect world of truth is useful in mathematics. Where it can actually do stuff, and music. Passionately excited.
 
 Living according to ideals of society. Distinction between ideals and phenomena. There is the idea of a perfect triangle which doesn't exist in this world.
@@ -432,7 +432,7 @@ Aristotle thought you should use it to live well.
 
 Mean between extremes. The middle way.
 - prudence (Ego) = wisdom, being in the world, not lost in some idealistic cloud. Knowing how to apply virtue in real circumstances.
-- courage. fortitude to do what is necessary but not too much to be bold. Related to the Id, agressive, sexual impulses.
+- courage. fortitude to do what is necessary but not too much to be bold. Related to the Id, aggressive, sexual impulses.
 - temperance, to enjoy yourself but not too much or too little
 - justice. consider others as well as yourself (but not too much)
 
@@ -477,7 +477,7 @@ A Distant Mirror by Tuchman shows how unbalanced Europe had become. There was a 
 William James said that it makes the sand and grit (like dukkha) of self-hood incline disappear. Moral enthusiasm, not just religion, like what Trump spews.
 Catholic church had flown too high, lost touch.
 
-People going to the crusades bumped into Aristotle. The ignorant Muslims who were too be massacred were very knowledgeable about the Greeks. Aristotle was a proto scientist., Was interested in this world. Interest in science began again. From this renaissance (rebirth) in science and interest in this world (and not just the transcendent world). Copernicus was the first threat to human dignity at the time. People were told that the Earth was the center of creation, but Copernicus said it was not even the center of the solar system. Guttenberg and the printing price. Protestant revolution, Galileo, Newton (Gravity). Natural laws that don’t require a supernatural hand.
+People going to the crusades bumped into Aristotle. The ignorant Muslims who were too be massacred were very knowledgeable about the Greeks. Aristotle was a proto scientist., Was interested in this world. Interest in science began again. From this renaissance (rebirth) in science and interest in this world (and not just the transcendent world). Copernicus was the first threat to human dignity at the time. People were told that the Earth was the centre of creation, but Copernicus said it was not even the centre of the solar system. Gutenberg and the printing price. Protestant revolution, Galileo, Newton (Gravity). Natural laws that don’t require a supernatural hand.
 Next were Voltaire and Rousseau (enlightenment and romanticism). The enlightenment occurred in the 18th century. Gathered together lots of thoughtful people in an interest to make things better. An interest in humanism.
 
 Rousseau wrote novels and could take a lot of meaning from human emotion. Romanticism began to replace the focus of the non-wordly realm. People became interested in their emotions and feelings.
@@ -506,9 +506,9 @@ Lot of curiosity about unconscious emotions and instincts. Legitimized by the ro
 ### Sigmund Freud
 
 Three insults to human dignity:
-- Copernicus: we’re not the center of the universe
-- Darwin: we’re not the center of the animals, earth
-- Freud: we’re not the center of our human nature, it is rather the Id. The best we can do is socialize our beastly passions
+- Copernicus: we’re not the centre of the universe
+- Darwin: we’re not the centre of the animals, earth
+- Freud: we’re not the centre of our human nature, it is rather the Id. The best we can do is socialize our beastly passions
 
 Freud began as a medical doctor doing research in a bio lab on the reproductive parts of electric eels, very phallic. He got good at experimenting on tissue with cocaine. Dabbled in cocaine, gave it to his friends. Freud suffered with anxiety and depression all his life, cocaine was great for him at first.
 
@@ -599,7 +599,7 @@ Don Cherry has the same idea for hockey. Gotta let the boys fight. He is a Canad
 
 There has been research on this. Researcher got word that a bunch of engineers were about to get fired. Got one group to rant, the other group explained something else. Then checked them a while later. They worked them up into a lather, they got angrier.
 
-Trauma teams and PTSD. During shooting, disaster, emergency. Psychologists are on their way, debriefing. Whole premise is Freudian. Talk about your feelings before you repress it and you won’t get PTSD. A lot of people have studied this. Compare people who got and who didn’t get counseling. There is no effect on later well-being, but we all believe it because we are implicit Freudians. That kind of catharsis does not work, statistically.
+Trauma teams and PTSD. During shooting, disaster, emergency. Psychologists are on their way, debriefing. Whole premise is Freudian. Talk about your feelings before you repress it and you won’t get PTSD. A lot of people have studied this. Compare people who got and who didn’t get counselling. There is no effect on later well-being, but we all believe it because we are implicit Freudians. That kind of catharsis does not work, statistically.
 
 What you really need is not just going over the material, just rumination. Need to put it into a meaningful context. Some kind of redemptive aspect.
 
@@ -614,7 +614,7 @@ EMDR (eye movement desensitization reprocessing). This therapy is done a lot by 
 
 This kind of emotional catharsis only seems to work when you make meaning out of the material. Not enough just to go over the facts of the matter, need to put it in the context of life, and then can maybe see a way forward. Eg. seeing that you can be loved again after being dumped.
 
-### Some Defense Mechanisms
+### Some Defence Mechanisms
 Most basic kinds are denial/distraction/suppression.
 A lot of guys think “she’ll come back, she’ll realize”.
 
@@ -628,7 +628,7 @@ Projection and introjection of values:
 - I feel worthless and bad, but I can’t admit that, so I’ll project that onto someone else
 - like Trump projecting onto the Mexicans
 - introjection: convince yourself that you are great, pull in values from someone else
-- I’m an American, I’m great! Trump is like gold for defense mechanisms
+- I’m an American, I’m great! Trump is like gold for defence mechanisms
 
 ### Freud, Jung, Therapy
 Can’t just pull yourself up by your bootstraps. You get swamped by mystery moods, where is this coming from?
@@ -709,7 +709,7 @@ Must ring true for the patient for Jung. It’s about the pathway to personal wh
 Is it more nature or nurture? Most people in this class thought nurture/both. Freud thought it was parents/nurture.
 
 Freud thought of personality in terms of character. A function of mediation of graceful feminine presence. Can impart love and allow you to flourish. 
-Intervening gracefull loving figure was the mom. If she screwed up, the child would be screwed up in various ways. 
+Intervening graceful loving figure was the mom. If she screwed up, the child would be screwed up in various ways. 
 
 ### Freud on Nurture
 
@@ -739,7 +739,7 @@ Later have a concert where someone at the concert tried to rush the stage and go
 
 This is the time that lots of people were dying (Jimi Hendrix, etc.) Lots of 27 club members. Instead, Mick Jagger stayed alive, stayed friends with Keith Richards (smack addict). They've been together almost 50 years.
 
-Mick Jagger is liky Odysseus - he is able to continue relationships despite repeated frustrations. He is in touch with his feminine side, often wears makeup, prances around.
+Mick Jagger is like Odysseus - he is able to continue relationships despite repeated frustrations. He is in touch with his feminine side, often wears makeup, prances around.
 
 Also in touch with his murky emotional side. "Jumping jack flash" was about a guy who had a bunch of adversity and triumphed over it. Mick identified with being a survivor. Knew about his feminine side, his dark side. 
 
@@ -767,7 +767,7 @@ Was a medical doctor, wanted to make it more scientific. His theory was that peo
 
 The environment also primes these needs. Called "press". If you have a combination of a need and a press, then you have motivation.
 
-Need for aggression, then go to a boxing match (press) this will give you a primed agressive motivation.
+Need for aggression, then go to a boxing match (press) this will give you a primed aggressive motivation.
 
 Need for nurturing, then go to therapy, then you will well up with motivation to be cared for which is where transference comes from.
 
@@ -804,7 +804,7 @@ He collected 4500 trait adjectives in English and thought of these as personalit
 
 A __personality trait__ is used to describe a person's tendencies across time and context. Traits fall along the normal curve - average traits have the most number of people. 
 
-Focused on test-retest reliability. Also internal consistency reliability (if they say they are funny, they wil also say they make people laugh). 
+Focused on test-retest reliability. Also internal consistency reliability (if they say they are funny, they will also say they make people laugh). 
 
 ### Personality Psychology
 
@@ -878,7 +878,7 @@ What accounts for the variability in traits?
 
 ### Genetic Similarity
 
-Twin studies try to elimate the shared environment aspect. Siblings and non-identical twins are 50% similar. Identical twins share 100% of genetic material. 
+Twin studies try to eliminate the shared environment aspect. Siblings and non-identical twins are 50% similar. Identical twins share 100% of genetic material. 
 
 They are studies by looking at pairs of siblings. Compare the correlation between non identical siblings and identical sibling pairs. 
 
@@ -1032,7 +1032,7 @@ There was a lot of care taken to ensure that the big-5 traits were independent. 
 
 Extraversion and agreeableness are independent.
 
-Neouriticism and low agreeables are dependent.
+Neouriticism and low agreeable are dependent.
 
 Neuroticism and conscientiousness are correlated. Neurotic people less conscientious. 
 
@@ -1040,9 +1040,9 @@ These go together to form _meta-traits_.
 
 ### Meta-traits
 
-Neurotic, low agreeable, low conscioustness is the anxiety meta trait. This is new research. 
+Neurotic, low agreeable, low consciousness is the anxiety meta trait. This is new research. 
 
-Extraversion and openness are the approach meta trait. Plasticity trait, receptive and responsive to perterbations in the environment. Eagerly oriented towards change. 
+Extraversion and openness are the approach meta trait. Plasticity trait, receptive and responsive to perturbations in the environment. Eagerly oriented towards change. 
 
 Some people measure how often you smile. Focus on these top two levels though.
 
@@ -1079,7 +1079,7 @@ This system is good at detecting obstacles/frustrations/uncertainties. It is a v
 - impulsiveness
 - angry hostility
 
-All of these lead to a negative overarching state. Theoritically you shouldn't be impulsive during anxiety, but because you have a negative state they cause this.
+All of these lead to a negative overarching state. Theoretically you shouldn't be impulsive during anxiety, but because you have a negative state they cause this.
 
 One way to get out of an anxious state is to find something to approach. People who are feeling vulnerable/self-conscious/depressed, they have few goals. Things that they can approach are impulsiveness. 
 
@@ -1097,10 +1097,10 @@ Approach system can be improved through impulsiveness/hostility. Anger is an app
     - all the previous are vulnerable
     - being arrogant and not modest doesn't make sense
     - but everybody hates people who are arrogant
-    - disagreable people don't mind
+    - disagreeable people don't mind
     - positive self-ideal activated the approach system
 
-If you are diasagreeable, most of your goals/tasks in life will be difficult.
+If you are disagreeable, most of your goals/tasks in life will be difficult.
 
 #### Unconscientiousness
 
@@ -1149,12 +1149,12 @@ He is the theorist who discussed how the two systems interact. The two systems a
 
 DeYoung split into instability vs plasticity.
 
-In his lab, trying to find neural signatures of the activity of these two system. ACC (anterior cingulate cortex) top of the brain registers when goals are not going well. Reliable negative voltage deflection. Magnitute of this reflects the magnitude of anxiety. 
+In his lab, trying to find neural signatures of the activity of these two system. ACC (anterior cingulate cortex) top of the brain registers when goals are not going well. Reliable negative voltage deflection. Magnitude of this reflects the magnitude of anxiety. 
 Left frontal is more active during approach motivation - eager states. 
 
 Neurotransmitters - low serotonin predicts high activity in anxiety. High dopamine predicts high activity of the approach system. 
 
-Are anxiety and approach processes related? Reciprocally inhibitory? Gray's student revised his theory. Widely accepted that these 2 symptons are reciprocally inhibitory. High approach system dampens the anxious system. At a trait level, can be high or low in both.
+Are anxiety and approach processes related? Reciprocally inhibitory? Gray's student revised his theory. Widely accepted that these 2 symptoms are reciprocally inhibitory. High approach system dampens the anxious system. At a trait level, can be high or low in both.
 Recent study that looked at people's brain activation looked at left frontal vs right frontal brain activity. Made people make errors in the lab, measured anxiety response (ACC). Found that approach motivation seemed to be associated with muted error negativity. Anxious people had a higher response. 
 
 ACC detects survival relevant information, feeds forward to neocortical part of brain to act on the information. 
@@ -1164,7 +1164,7 @@ ACC detects survival relevant information, feeds forward to neocortical part of 
 
 ERN is a very quick marker of anxiety related symptoms. Other symptoms of anxiety in the behavioural inhibition system. 
 
-When this anxiety system is triggered, automatic supression of goal-related activities. Animals actually stop in their tracks. Something isn't going well, need to stop what you're doing. 
+When this anxiety system is triggered, automatic suppression of goal-related activities. Animals actually stop in their tracks. Something isn't going well, need to stop what you're doing. 
 
 Anxiety to discourage persistence in what you're doing.
 
@@ -1172,18 +1172,18 @@ Vigilance to scan for alternatives.
 
 Arousal and readiness for action (cortisol). Something isn't going well, stop and reassess. 
 
-If you drug this system with alcohol, you don't notice or mind errors too much. Lubricates social events becase no longer worried with small things. If you take an animal and cut this part of their brain out (lesion it) they end up like bart simpson, can no longer get around obstacles. 
+If you drug this system with alcohol, you don't notice or mind errors too much. Lubricates social events because no longer worried with small things. If you take an animal and cut this part of their brain out (lesion it) they end up like bart Simpson, can no longer get around obstacles. 
 
 ### Goal Regulation
 
 Approaching your goals in the morning when you get up. When hungry, start foraging for food.
 
-Mouse wants to get food, smells cat. Want food, smell predator. This is an approach-avoidance conflict. Simulataneus activation of approach and withdrawl system. Don't see a cat, still approach food, but have anxious vigilance. Will keep foraging, look around for the cat. 
+Mouse wants to get food, smells cat. Want food, smell predator. This is an approach-avoidance conflict. Simultaneous activation of approach and withdrawal system. Don't see a cat, still approach food, but have anxious vigilance. Will keep foraging, look around for the cat. 
 The mouse might get to a place where they don't smell the cat anymore, then resume eager absorption without distractions. This is an adaptive process of behavioural inhibition system. 
 The problem comes when you can't escape. Like when you're a human and you're aware that you're going to die. Will never lose this "Scent", so how can you lose this anxiety. 
-This system evolved before new evolutionairy problems, like contemplating death. This anxiety system keeps on festering, pumping out cortisol, makes you unhealthy and depressed. 
+This system evolved before new evolutionary problems, like contemplating death. This anxiety system keeps on festering, pumping out cortisol, makes you unhealthy and depressed. 
 
-### Approach, Anxiety and LEft Frontal Assymmetry
+### Approach, Anxiety and Left Frontal Asymmetry
 
 Clinical studies on humans with lesions. Strokes that affect each side. Other side wins if one side is down.
 
@@ -1191,13 +1191,13 @@ People with right side lesions (left side active) tend to be happy/hopeful but a
 
 People with left lesions, they are more moody/sad/unstable. Takes away the approach motivation. Since they are reciprocal, makes the anxiety system more dominant. 
 
-Left frontal assymetry comes from "wanting". Occurs when you put sugar on a baby's tongue.
+Left frontal asymmetry comes from "wanting". Occurs when you put sugar on a baby's tongue.
 
 Power, commitment, anger can activate left frontal asymmetry. 
 
 We also approach abstract things, ideals, values, meaning. Approach these things, the kind of person you want to be.
 
-Certainty, conviction, rationalization also approach motivated. "I didn't want it anyway." Freudian defence mechanisms - approach system downregulating the other system. Anxious people often do non-anxious things. 
+Certainty, conviction, rationalization also approach motivated. "I didn't want it anyway." Freudian defence mechanisms - approach system down-regulating the other system. Anxious people often do non-anxious things. 
 
 Phineas Gage: got a pike through his head, went through his left frontal lobe. He was nice before this, he became profane/rude/impulsive/fitful/impatient after. Animal passions prevailed. 
 
@@ -1213,7 +1213,7 @@ Left brain active, see more stuff in right visual field (not sure, wasn't paying
 - then check with thumb/finger
 - extraversion linked to approach, if extraverted then should be right-ticker. 
 
-Correlations between right ticking and eeg. r = 0.38
+Correlations between right ticking and EEGs. r = 0.38
 More left frontal activity, more tendency to tick to the right
 
 Approach motivation: purpose
@@ -1238,11 +1238,11 @@ Ask them:
 
 During left hand non-movement, they say they are pointing to the nose when they are not. Sounds like a Freudian defence mechanism. 
 
-Asl them if they can clap as well, say they are clapping.
+Ask them if they can clap as well, say they are clapping.
 
 Make excuses/rationalize why they can't do it.
 
-5 to screw in a lightbulb, 10 to tie shoelaces. They choose shoelaces, then claim to have done it succesfully. No frustration in failure, they are in complete denial.
+5 to screw in a lightbulb, 10 to tie shoelaces. They choose shoelaces, then claim to have done it successfully. No frustration in failure, they are in complete denial.
 
 Give them a tray, it falls completely. 
 
@@ -1254,19 +1254,19 @@ When the anxiety system is knocked out, the approach system can run amuck.
 
 ### Aggression, Anxiety, Cortisol
 
-Cortisol is adaptive, short term. The body is ready for action. In the long term, is unhealthy. Supresses the immune system, leads to depression. 
+Cortisol is adaptive, short term. The body is ready for action. In the long term, is unhealthy. Suppresses the immune system, leads to depression. 
 
-Agressive hyperactivity predicts low cortisol. Low anxiety response. One possivle explanation is that engaging the approach system is a defence against this. 
+Aggressive hyperactivity predicts low cortisol. Low anxiety response. One possible explanation is that engaging the approach system is a defence against this. 
 
-Socipathic types free themselves from anxiety by becoming so commited to their aggressive ways. Also possible that people with low anxiety people don't care about the consequences and become sociopathic in response. 
+Sociopathic types free themselves from anxiety by becoming so committed to their aggressive ways. Also possible that people with low anxiety people don't care about the consequences and become sociopathic in response. 
 
-Reactive approach motivation: when people are anxious, they don't just become aggressive, they spontaneiously lunge towards whatever goal is salient for them. Go for it with increased tenaciousness - mutes anxious distress. Religion, chocolate, goals, etc.
+Reactive approach motivation: when people are anxious, they don't just become aggressive, they spontaneously lunge towards whatever goal is salient for them. Go for it with increased tenaciousness - mutes anxious distress. Religion, chocolate, goals, etc.
 
 ### Nature and nurture of traits
 
 Genes code for neurotransmitters and hormones affect brain function and laterality.
 
-Environment has a reward history. Nonshared family environment. Habits.
+Environment has a reward history. Non-shared family environment. Habits.
 
 All of these can also affect brain function leading to personality traits. 
 
@@ -1275,35 +1275,35 @@ All of these can also affect brain function leading to personality traits.
 - Serotonin for anxiety
 - dopamine for approach
 
-SSRIs act on serotonin receptors that are inimately linked with anxiety and depression.
+SSRIs act on serotonin receptors that are intimately linked with anxiety and depression.
 
-Dopamine and associated neurons are specialized for the approach system. Cocaine also acts on these neurons. To get a rough idea of high activity of approach system, try cocaine. Grandoise, eager. 
+Dopamine and associated neurons are specialized for the approach system. Cocaine also acts on these neurons. To get a rough idea of high activity of approach system, try cocaine. Grandiose, eager. 
 
 ### Serotonin Molecular Genetics
 
 One gene codes for one protein.
 
-5HT(serotonin). 5HTT (serotonin transporter) gene has several allelles. Can also be called polymorphism, many forms. Same gene, many versions. There is the original gene, by mutation, some of it gets taken away. The half left can still create the protein but less stuff. Or it gets doubled or tripled.
+5HT(serotonin). 5HTT (serotonin transporter) gene has several alleles. Can also be called polymorphism, many forms. Same gene, many versions. There is the original gene, by mutation, some of it gets taken away. The half left can still create the protein but less stuff. Or it gets doubled or tripled.
 
 Still creates the protein, but it may get weird. 
 
-The gene is necessary for efficient functioning of the serotonin neurons. Helps transport serotonin accross the synapse (between axon and dendrite of to serotoneurgic neurons)
+The gene is necessary for efficient functioning of the serotonin neurons. Helps transport serotonin across the synapse (between axon and dendrite of to serotoneurgic neurons)
 
 Short version functions less well than the long version of the allele. 
 
-Since serotonin is linked with anxiety, people with a short version should maybe be more succeptible to anxiety and depression in their lives. 
+Since serotonin is linked with anxiety, people with a short version should maybe be more susceptible to anxiety and depression in their lives. 
 
-Asked people how many stressful life events they have had. (eg death of a family member, marital breakdown, losing a job)
+Asked people how many stressful life events they have had. (e.g. death of a family member, marital breakdown, losing a job)
 
 Also analyzed genetic material, see SS or SL or LL. Found that SS people were much more likely to have depression if more stressful events. If non-stressful events then same odds as LL people. SS people with stressful life have a 0.4 chance of getting depressed. Diathesis stress model.
 Serotonin is necessary for coping with stress (a well functioning serotonin system).
 
 Other researchers found that people with SS alleles when put into an fMRI machine, found that their amygdala (scans for emotionally relevant stuff, think of it as Id) are especially more reactive to negative stuff. Their amygdala's focus more on bad stuff.
 
-Rhesus Macaques are the nastiest of macaques. Constantly pushing eachother around. They will constantly vie for the alpha positions. 
-Article looked at their genes. Genes that code for serotonin efficiency. These macaques had the highest likelihood for more anxious allele connections. Even in other primates,  there is the same tendency to be more reactive with a suboptimal serononin system.
+Rhesus Macaques are the nastiest of macaques. Constantly pushing each other around. They will constantly vie for the alpha positions. 
+Article looked at their genes. Genes that code for serotonin efficiency. These macaques had the highest likelihood for more anxious allele connections. Even in other primates,  there is the same tendency to be more reactive with a suboptimal serotonin system.
 
-All of these finding are less ceratin than they seem in textbooks. 
+All of these finding are less certain than they seem in textbooks. 
 
 ### Neuroticism and the Brain
 
@@ -1311,21 +1311,21 @@ Central anxiety related trait. We don't think about anxiety as the right side.
 
 Left frontal goes well with approach, but right frontal and anxiety is less reliable. Doesn't always correlate - ERN is a better metric. 
 
-If you confront people with threats, eg failure, does cause an immediate spike in right frontal EEG. Sometiems these threats make people feel more depressed.
+If you confront people with threats, e.g. failure, does cause an immediate spike in right frontal EEG. Sometimes these threats make people feel more depressed.
 
 Study also linked ERN to neuroticism. Measured big-5 than confronted people with uncertainty, which is especially noxious to neuroticism. Approach-anxiety conflict is the essence of neuroticism. 
 
 Neurotics exposed to uncertainty produces highest ERN. 
 
-The serotonin transporter gene (5HTT) has innefficient short version - S, and efficienct - L. People with SS have a higher amplitude of the ERN response. 
+The serotonin transporter gene (5HTT) has inefficient short version - S, and efficient - L. People with SS have a higher amplitude of the ERN response. 
 
 Amygdala is more thread selective with the SS alleles. Tracks motivationally relevant stimuli. Some people's amygdala's are more focused on opportunities and good things.
 
-First line of defence against anxiety/deression is SSRIs, prozac. Serotonin closely linked to neuroticism. 
+First line of defence against anxiety/depression is SSRIs, prozac. Serotonin closely linked to neuroticism. 
 
 ### Unconscientioussness and the Brain
 
-People who are anxious should be particularly careful, but they are surprisingly not. Conscientiousness is self control, conrolling impulses. 
+People who are anxious should be particularly careful, but they are surprisingly not. Conscientiousness is self control, controlling impulses. 
 
 OCD (low impulse control - thoughts can't control, then do the obsessive behaviours that can't control). People with OCD also have high amplitude ACC-ERN responses. 
 
@@ -1333,7 +1333,7 @@ Low serotonin is linked to impulsivity.
 
 OCD related to SS alleles for 5HTT
 
-People prescibe SSRIs for OCD. 
+People prescribe SSRIs for OCD. 
 
 The OCD cycle:
 
@@ -1341,17 +1341,17 @@ The OCD cycle:
 - engage in compulsions (give some relief)
 - only short term, then back to the obsession again
 
-Compulsions activate the approach system, temporarily downregulate the anxious system, but only temporary because not fulfilling goals.
+Compulsions activate the approach system, temporarily down regulate the anxious system, but only temporary because not fulfilling goals.
 
 ### Oxytocin - trust hormone
 
 Another area of research where the confidence rating is low. Occasional failures to replicate. 
 
-This the feeling after sex is an oxytocin experience. Human touch releases ocytocin, breastfeeding, sex. Bonding hormone makes people trust/like others, facilitates social interactions. 
+This the feeling after sex is an oxytocin experience. Human touch releases oxytocin, breastfeeding, sex. Bonding hormone makes people trust/like others, facilitates social interactions. 
 
-In the animal kingdom, humans and praire voles have lots of oxytocin. Prairie voles pair up, males stay together to raise their pups. 
+In the animal kingdom, humans and prairie voles have lots of oxytocin. Prairie voles pair up, males stay together to raise their pups. 
 
-Bonobos have high oxytocin levels. Constant orgy. Very low anxiety/aggresion. Bonobos are our closest genetic relatives. 
+Bonobos have high oxytocin levels. Constant orgy. Very low anxiety/aggression. Bonobos are our closest genetic relatives. 
 
 ### Agreeableness and the brain
 
@@ -1365,15 +1365,15 @@ Amygdala becomes less reactive to social threats after oxytocin.
 
 Can but "liquid trust" vials. One study with a bunch of people with borderline personality disorder - have antisocial phases. Gave them oxytocin, but it actually made them worse. When people get some influence into their system that is highly unusual it can cause anxiety. It is definitely not a cure-all. 
 
-### Personality Accross the lifespan
+### Personality Across the lifespan
 
-Other evidence of these traits comes from developmental trajectories accross time.
+Other evidence of these traits comes from developmental trajectories across time.
 
 Over a million people, looked at various ages, average levels of certain traits.
 
 Traits (3 anxiety traits) tend to change around the same times, suggesting that similar hormones/neurotransmitter processes may be responsible for the same changes.
 
-Women have a puberty spike for neuroticism, then it gets better. Men don't have a spike, they have a dip. Maybe it's because of male gender roles. Maybe there is a spike in testorone during young adulthood (activate approach system and supress anxiety).
+Women have a puberty spike for neuroticism, then it gets better. Men don't have a spike, they have a dip. Maybe it's because of male gender roles. Maybe there is a spike in testosterone during young adulthood (activate approach system and suppress anxiety).
 
 Dip in conscientiousness in early adulthood, then goes up for rest of people's lives. 
 
@@ -1381,13 +1381,13 @@ Agreeableness drops in teenage years, but then rebounds as well.
 
 ### Dopamine and approach
 
-High concetrations of dopamine around the incentive and reward center of the limbic system. Also the left frontal cortex - the thinking part of the brain. The conceptual approach and also the concrete animal approach both mediates by dopaminergic neurons. 
+High concentrations of dopamine around the incentive and reward centre of the limbic system. Also the left frontal cortex - the thinking part of the brain. The conceptual approach and also the concrete animal approach both mediates by dopaminergic neurons. 
 
 For synapses to work, the synaptic cleft needs to be cleared before next transmission.
 
 For good transmission need:
 
-- good recievers to catch transmitter
+- good receivers to catch transmitter
 - good enzymes for breaking down transmitter and reuptaking them for reuse 
 
 Dopamine receptor D4 (DRD4) is like the serotonin transporter. Helps transport the leftover neurotransmitter back into the axon for reuse. This receptor is a protein, coded for DRD4 gene. 
@@ -1395,7 +1395,7 @@ Dopamine receptor D4 (DRD4) is like the serotonin transporter. Helps transport t
 4 repeat allele (normal), 7 repeat mutation. 
 
 People with the 7 repeat have link to novelty/sensation seeking. Problems with dopamine/wanting, they are impulsive in sensation seeking. 
-ADHD is linked to two copies of this 7 repeat allele. When the approach system is not functioning properly, people have a hard time supressing desires. 
+ADHD is linked to two copies of this 7 repeat allele. When the approach system is not functioning properly, people have a hard time suppressing desires. 
 
 ### MAO and molecular genetics
 
@@ -1405,9 +1405,9 @@ There is a gene that codes for this enzyme. Doesn't create enzymes that work as 
 
 People with this allele are more likely to have conduct disorders, especially if they are in stressful environments. Gene-environment interaction.
 
-Aggresion/sensation seeking are both approach motivated. 
+Aggression/sensation seeking are both approach motivated. 
 
-### Amygdala: Atention to + and - cues
+### Amygdala: Attention to + and - cues
 
 fMRI study, sends magnetic (highly) impulses into brain that interact with oxygen molecules and make them visible to a scanner. Where there is more oxygen, there is more blood.
 
@@ -1433,26 +1433,26 @@ Cognitive component of approach. Engaged by thinking of new possibilities.
 
 Schizophrenia - very open to new possibilities, not constrained by reality. These people have very extreme dopamine receptors. 
 
-### Extravarsion and the brain
+### Extraversion and the brain
 
 Dopamine is the concrete/more active version of openness. 
 
 Cocaine mediated by dopamine receptors. 
 
-Dopamine is a neurotransmitter that is very related to the approach meta-trait. (ocytocin is a hormone)
+Dopamine is a neurotransmitter that is very related to the approach meta-trait. (oxytocin is a hormone)
 
 Testosterone also increases extraversion, inhibits fear (amygdala).
 
-A big biological contributer to testosterone is having a Y chromosome. Men have way more than women. Why is testosterone related to extraversion/approach?
+A big biological contributor to testosterone is having a Y chromosome. Men have way more than women. Why is testosterone related to extraversion/approach?
 
-A study took girls/boys into lab and asked them what they do if they are playing and someone takes their favourite toy. Coded the responses for aggression (chase, hit) versus passive (cry, tell the teacher, be sad). Boys had more of the active responses. Maybe this is because of gender roles, socialization. When fetus' brains are chaning in-utero, in the sensitive period when the fetus is becoming male/female. What if during this time, pregnant women are given testosterone analogues. They found women who had this. Brought these kids into the lab, asked them the same question.
+A study took girls/boys into lab and asked them what they do if they are playing and someone takes their favourite toy. Coded the responses for aggression (chase, hit) versus passive (cry, tell the teacher, be sad). Boys had more of the active responses. Maybe this is because of gender roles, socialization. When fetus' brains are changing in-utero, in the sensitive period when the fetus is becoming male/female. What if during this time, pregnant women are given testosterone analogues. They found women who had this. Brought these kids into the lab, asked them the same question.
 Both boys and girls exposed to more testosterone produced more active responses to provocation. 
 
 Another study asked about toy preferences. Kids came into a toy heaven, let them choose the toys they want and do whatever they want. Coded whether the toys were active (guns, cars, weapons, balls, things that move) or passive (dolls, pens, art). Noticed same - boys more likely to choose boy toys. Socialization argument also works here too,
 
-Took similar kids who had been exposed to more testorone in utero (due to conditions/medication), found that the girls had the same preference for boy toys as the boys.
+Took similar kids who had been exposed to more testosterone in utero (due to conditions/medication), found that the girls had the same preference for boy toys as the boys.
 
-Biological basis (through testorone) for male preferences for approach related activities. 
+Biological basis (through testosterone) for male preferences for approach related activities. 
 
 ### Finger lengths (2D:4D)
 
