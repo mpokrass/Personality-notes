@@ -5,6 +5,7 @@
 - [Lecture 3](#week3)
 - [Lecture 4](#week4)
 - [Lecture 5](#week5)
+- [Lecture 6](#week6)
 
 <a name="week1"></a>
 ## Week 1 - Myth (Jan 5) 
@@ -1457,3 +1458,364 @@ Biological basis (through testosterone) for male preferences for approach relate
 ### Finger lengths (2D:4D)
 
 On average, men have a longer 4th digit than 2nd. Higher testosterone levels correlated with longer 4th digit. 
+
+<a name="week6"></a>
+## Week 6 - Desire (Feb 9)
+
+Suppression of aggressive reactions to frustrations activates the BIS system, until you need to relieve it somehow, and aggression is an approach motivated relief, activates the BAS and downregulates the BIS. It's all about mood regulation. 
+
+### Experiential Results
+
+- Approach factor
+    - BAS
+    - extraversion
+    - narcissism
+    - hypomania
+- anxiety factor
+    - neuroticism
+    - BIS
+    - low self-control
+    - uncertainty
+    - aversion
+
+- anger and hostility
+    - related to both
+    - anxiety makes people want to escape from it, by doing something angry/hostile
+- rumination
+    - correlated negatively with approach, positively with anxiety
+- self-control
+    - positive with approach, negative with anxiety
+
+- efficacy -> happiness
+- integrity -> meaning
+    - meaning/integrity is more pronounced in older adults
+    - define themselves by doing well
+    - efficacy no longer predicts well being among senior manager
+
+- emotional intelligence (mind in eyes)
+    - people low on narcissm, low on approach, low on anger, high on mindfulness were good at this
+
+### OSCAR - Approach Avoidance
+
+- never went outside, spent the whole day at the window looking to get outside
+- for 5 years
+- one day, Oscar lept over Ian's leg and went to the front yard
+- what did he do when gets there? fulfills his life goal
+- he gets there and he becomes very anxious and hides under the porch
+- stays there for half an hour
+- approach avoidance conflict
+- activates the BIS, become vigilant, feel anxiety
+- can't think of anyway to resolve this, so he withdrew
+
+### Hector - Approach Approach
+
+- While he gets his food, Ian goes to the door and gets the chain 
+- gets food once a day, goes for a walk once a day
+- now he doesn't know what to approach more
+- runs to the door, then runs back to the food
+- goes back and forth
+- approaching one means losing the other
+- eventually stopped right in the middle and had a fit, which accomplishes nothing
+- temper tantrum is activating the approach system
+
+### How do people respond to threat?
+
+- BIS functions to resolve approach-withdrawal conflict
+- approach-oriented resolution: persist in goal activity (howling for hector resolved his anxiety)
+- withdrawal-oriented resolution: give up on goal
+
+
+### Goal theory
+
+Pavlov, around the same time as Freud, talked about different kinds of dogs - excitatory and inhibitory.
+
+### Pavlov
+
+Classical conditioning. After his nobel, started looking at dog personality and dog conflict. 
+
+Goal conflict caused distress and dog tantrums.
+
+He put his dogs into conflict situations:
+
+- trained them that when they saw a circle they would get a reward
+- started showing ovals, dogs weren't sure what it was, started going berserk
+- also shocked dogs in the leg, and moved it down farther. It was a painful shock, but the reward was gravy so dogs still expectantly did it. Since he was moving it down, they weren't sure if they were approaching food or approaching a shock. At some crossover point the dogs would throw tantrums.
+
+### Lewin
+
+Wanted to become more scientific with Freud's ideas.
+
+Worked with toddlers, go them to walk backwards towards a rock. They want to succeed at the goal. When you get there, need to look between the legs and sit on it. At some point to sit, need to take eyes off it. They wanted to please the person, but avoid falling, they would throw a tantrum. 
+
+### Definition of a Goal
+
+- not merely a stimulus and a response
+- is the combination of a stimulus and a motivational behavioural orientation to respond by approaching/avoiding that stimulus
+- rats do not learn responses, they learn goals
+- block their original response to a stimulus, they will adopt a new means of achieving the same goal
+- goals are fluid thing that don't have to happen in the exact same way that we intend
+
+### Happiness of Pursuit, Discrepancy Reduction
+
+- regardless of whether the goals are un/conscious, they tend to operate according to a certain process
+- we have a goal
+- compared to comparator (want to kick somebody, haven't kicked anybody)
+- discrepancy generates output (find someone to kick)
+- repeat cycle for discrepancy reduction
+- discrepancy reduction is the key to well-being
+- goal shielding, absorption, engagement, flow
+- become absorbed in the goal, other things become less salient
+- feel very engaged
+- lose track of time
+- obstacles -> anxious effort -> disengagement
+- if the goal is blocked for a long time, will eventually disengage
+
+### Automatic goals
+
+- crossword puzzle with goal primes (achieve, compete, succeed, strive, attain, master)
+- one with other primes (loved, support, affection, accepted)
+- the goal primed ones are more likely to be sore losers
+- the other ones give more to charity
+- we are much more automatic/less in-control than we think
+- non-conscious goals that can be primed with unconscious contanct with billboards or something
+- eg. might cheat more after seeing nike billboards
+
+- automacity of everyday life
+- show people pictures of guns in a lab, then when you bring them into the lab in a Millgram like experiment, shocking them when their student gets something wrong, give more aggressive shocks
+- if primed with words related to rudeness, more likely to interrupt someone
+- goal activation and persistence
+    - how do we know if something is a goal?
+    - if the goal is blocked, then be bothered (Zeigarnik effect)
+    - (Ovsiankina effect) if it is really a goal, will find some way to accomplish it
+    - fishing study. There is a board game, dillema game, take fish out of ocean, if too much is taken out, everybody loses.
+    - if you want to win at all costs, game will end quickly
+    - if you want to be a communal person, then will be co-operative, people will be happier over the course of the game
+    - game is played over an hour
+    - if a goal prime like crossword puzzle changed the behaviour in this game, that shows that it is a goal
+    - indeed people took more fish faster if primed with the acheivement goal
+    - people more likely to cooperate if they took the loving puzzle
+    - people more likely to cheat when not watched after taking the acheivement puzzle
+    - asked them if behaviour affected by crossword puzzles, everyone said of course not
+    - two different goal-primed conditions and either obstacle or not
+    - achievement condition wanted to complete the goal that was disrupted, even if meant forgo the funny task
+    - meant that achieving was a goal, wanted to persist in the face of an obstacle
+
+- first alternative explanation for displacement
+    - if someone wants to control you, their control in another domain was blocked, and so they now want to control you
+- mystery moods
+ - foul mood but don't know why, or good mood
+ - some unconscious goal either got fulfilled or blocked
+ - acheivement primed people were upset when they lose something dumb, like a card game
+- doesn't matter if goal is conscious or unconscious
+ - goal shielding occurs when you supress everything that is irrelevant to a certain goal
+- automatic inhibition of fulfilled goals
+ - watching for the word "aggression" to appear, say there it is, and get a prize
+ - goal is to notice the word aggression
+ - gives them an aggresion related goal
+ - lexical decision task: string of letters comes on the screen, have to say whether it is a word or not (word vs not word)
+ - kicked, turtle, asdfds, repeated many times
+ - researcher is interested in speed, how fast do you recognize kicked as a word, and turtle as a word
+ - 50 words like kicked, 50 neutral words like turtle
+ - interested to see how accessible the elements of the aggression schema are
+ - now have an aggression goal, that should activate nodes related to aggression
+ - should be really quick at identifying related words
+ - unrelated words haven't been primed, so they should be slower
+
+### Automatic inhibition of stimuli related to fulfilled goals
+
+- before they had the aggression goal, words were lexically decided with the same speed
+- during aggression goal, aggression related words were more accessible - more quickly noticable
+- reaction time faster
+- other words became slower
+- this is goal shielding
+- when you have a goal, can't process all information
+- brain strips away things that are unrelated to the goal
+- after aggression goal (test finished), aggression words slowed down, other words were faster
+ - forget everything after a test
+ - inhibit goal related things after we complete it
+- brain automatically giving "goal goggles"
+- Karl Jung thought the universe was conspiring to give you messages about what is useful/relevant to you
+- goal-myopia
+
+### Goal conflict
+
+Approach oriented when we are pursuing goals. But shit happens, we got obstacles/restriction. This is an approach avoidance conflict, get an ERN response.
+
+Next get anxious vigilance, scan for viable alternatives, then resume eager approach. 
+
+We sometimes try to suppress anxious thought.
+
+Might ask someone to think about their death and write about their rotting flesh. About 7000 studies with this manipulation. If after that, fill in word stems with first word that comes to mind.
+
+S K _ _ _
+CO _ _ _ _
+D E _ _
+
+What comes to people's minds is SKUNK, COFFEE, DEER.
+If you give them five minutes, you get SKULL, COFFIN, DEAD.
+
+### Thought suppression and rebound
+
+People try and suppress thoughts. Try to think about other things. Eventually remember that you're looking at this to distract yourself from the thought.
+
+- thoughts come bouncing back later
+- same for threats
+- if you fail a test, or someone criticizes you, these are threats
+- put them out of your mind
+- but this suppression activates the BIS, threats become contagious
+- you become vigilant in the domain of threat, become more self conscious, find other threats
+- all the effort to suppress thoughts takes its toll, associated with decreased self control
+- that makes you unable to persist at subsequent tasks
+- ego-depletion theory
+- will is limited, can run out, interesting theory
+- get tired faster
+
+### Ego depletion and self-control failure
+
+- thought suprression takes a psychic toll
+- trying not to be sad is really hard
+- people randomly assigned to watch a sad/happy movie and not show any emotion
+- or have people do a stroop test
+ - "ignore the word, just tell me the colour"
+ - have to suppress the meaning
+ - doing this many times causes the same outcome as suppressing emotion
+ - every impulse that you inhibit takes a psychic toll
+ - conflicts then activate the BIS
+- ignore cookies when hungry
+- loss of persistence and self control
+- brought couples into a magazine study
+- sat next to each other
+- the male was given a softporn magaine
+- told to assess the layour for quality
+- really looked at how long he oggled the nudity pages, while the girlfriend was sitting next to him
+- after they were depleted, were more likely to oggle the pictures in front of the gf
+- taste test after fasting
+- taste as much as they are required to tell the taste
+- deplete them by getting them to not show emotion
+- if they are depleted, they will binge
+- people who come into an experiment, randomly assigned to ego-depletion or not, then write an essay about something, then get feedback from experimenter
+- "worst essay i've ever seen"
+- then get a chance to rate the experimenter (to decide who to fire)
+- depleted and insulted people tore into the experimenter more than the non-depleted people
+- people lose their self control after a prior exercise of self control
+- depletion causes spontaneous increase in BAS
+- people more likely to take risks, confident, dopamine
+- people don't want to activate BIS even more
+- don't want to do something that makes you even more anxious when you are anxious
+- BAS downregulates the anxious distress
+- second explanation for displacement:
+- already anxious BIS -> unwilling to suppress more
+- study found that when you give people a sugary drink, replenish them and they can engage in more self control
+- swishing sugary drink in mouth and spit it out also helps people resist more
+- putting sugar on a baby's tongue activates approach motivation in brain (left frontal)
+
+### Angry Approach
+
+- strongly engaging an approach goal may be one way to protect self from anxiety of threats
+- agression is approach-oriented
+- angry approach shields one from distress/unceratinty frustration
+- third explanation for apparent displacement of anger:
+
+
+__missed a lot of stuff here__
+
+Approach is negatively correlated with life stress and with ERN.
+
+### Eager Displacement Goals
+
+Some rats (when anxious) will nibble off their own whiskers, or run on a treadmill to the point of death, even when food is available.
+
+Cats will lick themselves compulsively. Dogs will bark/lick themselves compuslively. Displacement goal that animals do when they are anxious. Zoo animals will vocalize compulsively when distressed. Vets often give them SSRIs. 
+
+Humans like to think about ideals or our future or donald trump, or whatever it is that inspires us.
+
+### Sex and conflict
+
+- approach pleasure/love/romance/security/dominance/submission/comfort/children
+- very powerfully related to powerful hormones
+- lot of potent qualities
+- also a lot of things that can go wrong:
+ - insecurity, rejection
+ - morals
+ - neuroses
+ - body anxiety
+ - feeling like an animal
+ - performance fears
+ - vulnerability
+- some people romanticize it to make it about ideals of love
+- study done by mortality-salience researches
+- what happens when you remind people of their own mortality, what will it do to their sex drive?
+- mortality salience blocks peoples goals, makes them anxious
+- anxious people want to activate approach system
+- can achieve concrete goals or ideals
+- what they found was that mortality salience made anxious people have less sex, but more interest in romance/love, activated BAS
+- for anxious people, what is salient about sex is the bad things
+- non-anxious people, they get more interested in physical sex when reminded of their mortality
+- non-anxious people, for them the good parts of sex are more salient
+- ideals are a huge part of human goals
+- as we get older, death becomes more salient, it is nice to have an idealistic focus to activate BAS
+
+### Ideals as abstract goals
+
+- ideals are high-level goals, meanings, values, worldviews
+- their purpose is to guide concrete goals
+- people can also use these ideas for palliative systems
+- "go to happy place"
+- they don't cost anything
+- don't have to do anything to activate them, just polish them
+- contemplate abstractions, greeks were all about this too
+- "shielding the self" with transcendent ideals
+- feel better by focusing on ideals
+- enhance supervalent thoughts
+- some people instead "escape the self" within concrete experiences (non-neurotic people and sex)
+- "god" and "chocolate" significantly decreased the amplitude of the ERN
+
+### Motivational for idealistic integrity
+
+- conflict activates ideals, goes to approach, all the conflict falls away, is forgotten
+
+- the extent to which people become approach motivated is mediated by ideals
+- ideals are the levers used to activate personality processes
+
+### Approaching personal project efficacy and happiness
+
+- efficacy (outcome success, determination, competence) is a very high predictor of happiness
+- positive affect if reducing discrepancy
+- happiness: more positive feelings and less stress and depression
+- behavioural activation helps with depression, do something, anything that can activate the approach system
+- can be small wins
+- breaking things down into small wins allows people to reduce discrepancy more often/better
+- motivational speakers: when you achieve your goals, you feel happier
+- have a goal card in your wallet that says your goals
+- you see that and it primes your goal, you complete it more, notice stuff relevant to your goals more
+- motivational speakers shifted to "what on earth am i here for, why, why do i want to succeed"
+- these questions become more salient for older adults
+
+2 different kinds of wellbeing, second kind is more meaningful. The goals you identify and find meaning more are more important.
+
+### Meaning vs Happiness
+
+If high on happiness, might have more meaning. Distal "being", more meaning, proximal "doing" more happiness. Predicted by different kinds of goals.
+
+Integrity predicts meaning.
+
+Parenthood paradox: if you ask people what the best thing in ther lives are, they say children. But if you measure people's happiness, they are least happy while they are parenting. Crazy pit of despair when people have children. But when asked, they say children are the happiest thing. People are making it up because they feel dumb for having children.
+
+As people get older, they become more interested in meaning, happiness becomes less focal.
+
+Meaning and void: habituate to things that make you happy quickly. For goal perspective, want idealistic goals becuase you never reach it and habituate. Move towards goals and sustain this well being. Goal attainment is a curse to well-being. 
+
+Temporal world is disillusioning, want transcnedant goals to pursue, beyond temporal world. 
+
+But efficacy is important. What is optimal is integrated efficacy, succeeding at something that you care about.
+
+Efficacy predicts meaning really high in Waterloo students. Doing well is very important for UW students. Key part of identity. Later in life, studying high level senior managers in Canadian gov't, achieved a lot. Asked them about efficacy/integrity, efficacy did not predict well-being at all, instead it was integrity. This is called the "integrity shift". 
+
+### Meaning Quest
+
+Hopeless problem did not activate meaning, give up.
+
+Remind people of goal frustration significantly increases quest for meaning in life.
+
+Goal conflict does this even more.
+
