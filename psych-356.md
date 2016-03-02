@@ -6,6 +6,8 @@
 - [Lecture 4](#week4)
 - [Lecture 5](#week5)
 - [Lecture 6](#week6)
+- [Lecture 7](#week7)
+- [Lecture 8](#week8)
 
 <a name="week1"></a>
 ## Week 1 - Myth (Jan 5) 
@@ -1818,4 +1820,240 @@ Hopeless problem did not activate meaning, give up.
 Remind people of goal frustration significantly increases quest for meaning in life.
 
 Goal conflict does this even more.
+
+<a name="week7"></a>
+## Week 7 - Illusion (Feb 23) 
+
+Had to miss this class, two midterms the next day :( 
+
+<a name="week8"></a>
+## Week 8 - Security (March 1) 
+
+Assumption that you need basic trust at the beginning of your journey through life - maybe mother matters more than we think in development?
+
+### Dismissive Attachment
+
+Cope with relationship distress by saying "I don't need people, get away from me, I can function on my own." Good short term solution for a child, growing up, when they have unresponsive parents. 
+
+These kinds of people might be this way because they think they are great themselves. Positive model of themselves, high efficacy. (true dismissive)
+
+Other group - fearful, low efficacy. Want to be close to people but think that you will be rejected.
+
+Fearful types - this strategy hurts themselves and others.
+High efficacy - hurts themselves and others.
+
+Truly dismissive people tend to be hypomanic and have high bas-drive. They have high anger, are individualistic, narcisstic, and low wisdom. 
+Wisdom = recognizing that other people's persepctives are important/worth considering. Not that good at recognizing the perspectives of others. 
+Higher stress, depression, neuroticism. 
+Hyper agentic. 
+Poor performance on the eyes talk. People who are amped up on approach motivation are less capable of considering others. 
+
+Fearful types are low hypomanic, low bas drive, not narcisstic. Caustic style. 
+
+### House of Atreus (Mycenaeans)
+
+Myths begin of vivid depictions of callous parents. Tantalus cut up and cooked his kids, for his own benefit. Others cut off hands and feet of kids, etc. 
+
+### Oedipus
+
+Also bound and exposed, left out to die by his parents. 
+
+### Virgin Mary (Manta Maria, Notre Dame)
+
+Selfless loving parenting, connected with exceptional individuals. Eg. Mary with Jesus.
+
+All connected with idea that parenting matters.
+
+### Freud: Psychosexual Development
+
+Issues during development cause complexes or fixation in adulthood.
+
+### Maslow
+
+Must have secure self and feeling of belonging before you can have highest function (self-actualization). 
+
+Dismissive people (don't want to belong/connect) are associated with low self control, efficacy, integrity, and authenticity. 
+
+### Goals in Stage Theories of Personal Development
+
+Belongingness is a basic primate/human need to connect to ours. If you can't consolidate this connection, that will always be an incomplete goal. Implicit goal, will prime connection related activations. 
+
+Become fixated on complexes, cause neuroses/delayed development (according to Freud).
+
+May cause mystery moods. Relationship goals blocked/unfinished, might give you sudden moods. When goals are active/unfunfilled, will always be scanning for related goals. 
+
+Once goals are fulfilled, we actively supress things related to finished goals. Eg. affirmation by getting invited to something, you relax about these goals. 
+
+### Stages of psychosocial development
+
+Erikson
+
+1. Basic trust: will people respond when I have needs?
+ Will I not feel that others around me are indifferent to my existance.
+2. Autonomy
+3. Initiative
+4. Industry
+5. Identity
+6. Intimacy
+7. Generativity
+8. Integrity
+
+### Basic Trust vs. Mistrust
+
+Neosocial theorists, focused on social more than sexual. 
+
+Karen Horney thought that parental indifference was the worst thing for a developing child. Causes basic anxiety. She foreshadowed attachment style research. Studied how children respond to indifference. 
+
+She thought that one way was basic hostility - angry approach. Some move towards, basically ask for attention. Some move against, others move away from.
+
+She outlined 10 neurotic needs, ways that people entangle themselves in drama. Try to extract the attention/responsiveness that they want. 
+
+### Bowlby and Ainsworth: Attachment theory
+
+Observed mothers and children at the park. 
+Some children explored, and their mothers were responsive when they returned. Kids free to explore and then come back to the secure base.
+
+Other kids would be always bothering the mom, and the mom would ask them to go explore. These kids wouldn't leave much. Bowlby got the idea of parents as a secure base. 
+
+Strange situation: useful diagnostic that was useful for looking at whether kids would be secure, anxious, or dismissive. 
+
+Child is placed under some kind of stress. New situation. Parent will often leave. Will study the _reunion_ to identify the attachment style. 
+
+Strage adult enters new room, reads a magazine. Stranger attempts to interact with child. Soon after, mother leaves the room. Then the stranger will try to interact with the child, trying to comfort the child. Then mother returns. 
+
+Stranger leaves later, then mom leaves. Child is on their own. Then stranger returns, and tries to console (in vain). Then mother returns. This is the second reunion. Baby is calmed almost at once. This is secure attachment. 
+
+Secure infants have a period of appropriate distress, and then they are relatively easily consoled. Relatively exploring.
+
+Anxious infants are very distressed, have odd reaction when mom returns. Partly relieved/happy, but also partly angry. Also sometimes remain distressed. 
+
+Dismissives show little distress. They are aloof when mom returns. Other studies show that even though they appear to not care, their physiological measures show an increase in stress. It's thought that this is a defence against highly stressful situation. 
+
+Researcher observed parenting for two weeks, then brought them into the lab for the strange situation.
+
+In secure kids, mom was responsive, learn to trust her. "I can count on my mom."
+
+Anxious kids, sometimes the mom was responsive, and sometimes not. Mom goes away - this might be okay, or might not, this conflict causes anxiety.
+
+For dismissive kids, their parents are usually not responsive. 
+
+Attention is not always good attention, need responsiveness, not making them amuse you. 
+
+Maybe this is reverse causation? Hard to be responsive when the kid is dismissive. 
+
+### Adult Attachment Style
+
+Hard to get at the cause of adult personality.
+Might be seeing what they want to see. 
+
+Bowlby thought that attachment dynamics were evolutionariliy adaptive. Adaptively significant for humans to have adaptive attachment styles, because situtations change. 
+
+Dismissiveness might be a way to get the anxiety to stop. Too hard to want something that you will never have, will eventually stop wanting it.
+
+Proposed that dismissive attachment style is maladaptive - doesn't serve a useful function.
+
+True dismissives are high BAS. Anxious are high BIS. 
+
+Hard to experimintally determine responsive parenting with humans. In the 50s, researchers were doing this with monkeys.
+
+### The Learning Assumption
+
+Assumption: contingencies learned in childhood persist into adulthood. 
+
+Harlow was a colleague of Maslow.
+
+Freud thought that all we needed from our parents was libidinal (sexual). Young child was oral and needed oral satisfaction. Harlow seperated baby monkeys from child. Had a wire mom that had oral stimulation (botle) and cloth mom that had no oral, but had bonding and attachment/responsiveness. Determined what was better for the primate.
+
+Some monkeys withdrew and became very self contained. 
+
+Monkeys raised with wire mothers were socially stunted, became poor mother themselves.
+
+### Twin Studies on Attachment Style
+
+Most excited that 35% of adult dismissive type comes from parents. Very bad parents matter. Consistently nonresponsive. 
+
+Some psychiatrists think parents should be giving 5 minutes of responsive attention to each child every day, that's it. 
+
+If you parent in a certain way, your kids will be a certain way. 
+
+Anxiety is the less bad form of bad parenting. Thankfully, child anxious attachment is generally not persistent into adult attachment as a result of parenting. 
+
+We are less self-sufficient than we think. Intimately wired to connect, oxytocin, mirror neurons. 
+
+### Social Pain and the Power of Touch
+
+People often use metaphors of pain for emotions (eg. heartbreak, torn, etc). Some researchers thought that this maybe was become the social pain is registered the same way as pain.
+
+Acetaminophen dulls the ERN response for angular cingulate cortex. 
+
+fMRI study: same area of brain affected by social and physical pain. His kid wanted ice because her feelings were hurt. 
+
+Gave people 3 weeks of tylenol, sent them out with beepers. Had people respond with how socially pained they are feeling. Other half on placebos. People who were on tylenol experience less social pain. Tylenol is bad for your liver, don't do it so often. 
+
+Women come into lab, get put into MRI machine, are told they will have electric shocks. Randomly assigned to hold husband's hand, stranger's hands, or no hands.
+
+Hand holding decreased activity in BIS.
+
+Other studies asked people how many times they had a hug in a week. But we aren't met to be super antisocial. People with fewer hugs had less oxytocin and higher blood pressure/heart rate. 
+
+Oxytocin decreases ACC-ERN. Released by touch.
+
+Kangaroo care: power went out in a incubator ward for premature babies. Nurses put them between their breasts, they had better prognoses. 
+
+### Empathy
+
+Assessed people's qualities - some predicted empathy 26 years later.
+
+These were:
+
+- dad involved
+- mom ok with dependence
+- happy mom
+- maternal inhibition of childhood aggression
+
+Better at noticing the eyes and emotions of others.
+
+Secure/warm connection to other people allows us to be more empathetic, better parents. 
+
+Oxytocin increases perspective-taking for some autistic people. 
+
+Brief touch/therapy improved some therapy. 
+
+Waitresses how touch their clients briefly received 27% higher tips. 
+
+Some stuides where they ask people to volounteer, more generous/willing to helo if touched.
+
+Bum patting. Preseason in NBA, looked how much the guys touched each other (eg. chest bumps, butt pat) predicted performance in the season. 
+
+Seeing your distress activates my ACC, that's how empathy works. Must be able to have an ACC response (won't if hopped up on anger). 
+Persistent anxiety will cause RAM (reactive approach motivation) to mute ACC.
+Also sociopaths/aggressive delinquints have muted ACC activity. 
+
+Don't want too much ACC reactivity - flooded with anxiety. Also don't want to cut off ACC altogether, like hyper-agentic people, or dismissive people. 
+
+### Empathy questionarre
+
+Males who have more testosterone are lower on empathy. High inter uterinal testosterone also less empathy.
+Both less eye contact.
+
+### Resilience
+
+Secure attachment and muted ACC-ERN.
+
+Stress did not change ERN for securely attached people. 
+
+Many studies show that if you make people ostracized/rejected, they become hostile, are more willing to shock other people. Become caustic. Give people personality tests, then give them false feedback, tell them that they will end up alone. Control condition gives just scores.
+
+People become antisocial when rejected. 
+
+Teddy bear effect. Future alone, no one wants to work with you. In these conditions with angry responses, either hold teddy bear, or just look at teddy bear. Holding the teddy bear eliminated the angry response to social rejection. 
+
+### Success
+
+Often times minorities who get into prestigious schools like Stanford, their marks drop in first term, just like everybody. Minorities start to underperform and drop off. 
+
+Maybe it's because they feel like they don't belong? Randomly assigned people who were either African/European American to have a belongingness manipulation or not. Manipulation was "it's hard here, marks drop, you still belong here."
+
+Belongingness group did better accross the board.
+
 
