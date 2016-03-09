@@ -8,6 +8,7 @@
 - [Lecture 6](#week6)
 - [Lecture 7](#week7)
 - [Lecture 8](#week8)
+- [Lecture 9](#week9)
 
 <a name="week1"></a>
 ## Week 1 - Myth (Jan 5) 
@@ -2056,4 +2057,206 @@ Maybe it's because they feel like they don't belong? Randomly assigned people wh
 
 Belongingness group did better accross the board.
 
+<a name="week9"></a>
+## Week 9 - Pride (March 8) 
 
+### Exclusion ball game
+
+People being excluded in a simple ball game makes them feel lonely and upset. 
+
+### Money
+
+People turn to prideful things to try to take away pain. 
+
+"How much money would it take to never see sunshine again?" /chocolate/spring/beach
+
+Primed with either pain or social exclusion. Dependent variable was how much money would it take to give up these things.
+
+People primed with pain or social pain, would take less for them to give up these things. They really wanted money. 
+
+Gave people a stack of 80 $100 bills to count. Finger dexterity lie. Control was 80 similar pieces of paper.Assigned people randomly assigned people to the exlcusion exeriment. Money people felt less excluded. 
+
+Next study had people count money vs paper and then put hands in hot water. Exposure to money makes people feel less physical pain.
+
+Study with monopoly game, similar effect.
+
+Pictures of money, screensavers of money, word scrambles of money. 
+
+Became more independent, wanted to work alone (in academic or work settings), gave less help to others that asked for it. Focused on their own goals more.
+
+Money is related to power, which is strongly linked to approach motivation. Activating agentic goals, which mutes the ACC and mutes pain response.
+
+### Epic of Gilgamesh
+
+Ruler whose kingdom was under seige. Social chaos, walls. Became mightiest ruler ever. Dominated animals. Callous disregard for other people. Sounds like Trump a bit. Valdimir Putin, even wrestles animals as well. 
+
+### Aesop on Pride
+
+Crow and fox, crow has food in mouth. Fox says crow can't sing, crow does and drops food. Crow does a poor job of taking others' perspectives, because of his pride. 
+
+### Agency and Goal-shielding
+
+Complete love/relationship or achievement crossword puzzle. Goal primes, activate different schemas. 
+
+Either get an achievement threat (failure to understand (an impossible) statistics passage from a grad textbook). 
+
+Other half got relationship threat. Think about an unresolved relationship dilemma. 
+
+Cross randomly. 
+
+Dependent variable was anxiety. 
+
+Most anxiety was primed achievement and then achievement stress. 
+
+People were anxious when the threat matched the prime. Goal shielding capacity. People didn't feel anxious about relationship problems when focus on achievment. 
+
+Similar to throwing one's self into work. 
+
+More idealistic when goal that was primed is threatened.
+
+This is defenciveness. Our attempt to capture Freud's ideas that conflicts cause anxiety and people cope by blocking them. 
+
+### Alfred Adler
+
+Adler was very friendly/social/warm. (unlike Freud)
+
+Adler was one of the first to realize that pride is necessary. The ego is more than just a mediator of conflict. What domains you try to be perfect or superior in.
+
+If you feel too inferior, not loved/accepted or like a loser, then you might become defencive and might develop a superiority complex. 
+
+Teach people to have healthy pride. Power used for social interest. Do something useful for society with their power. 
+
+Main job of parents is to make kids feel powerful in a useful way. Feeling powerful is an important part of emotion regulation. 
+
+### Ego: The joy of power
+
+Became the dominant idea in clinical psychology. Human ego enjoys power/efficacy. People have a hard time functioning without it. Ego autonomy. Ego is not just a servant, wants to flex its muscles. Therapy - find a way to exercise power that isn't going to hurt anybody/themselves. 
+
+People have basic motivation for efficacy/power. Need to experience it for optimal human development. 
+
+Capacity to activate power may mute distress.
+
+Narcissism may be an addiction to self esteem - feeling good about yourself. 
+
+### Power and perspectives not taken
+
+Think of a time when you've had power over another person. 
+
+People who are high on power are not as interested in other people's perspectives. 
+
+Had people come into the lab and measure the psychological power. Interact in conversations with people who were either highly distressed or not distressed. Sometimes you have other things on your mind. 
+
+Power insulates people from caring about others' distress. 
+
+When people are thinking about when they had power of someone, they are more likely to draw a self-focused E. Lower in power, draw other focused E.
+
+Power related traits negatively correlated with eyes activity. 
+
+### Erikson: Psychosocial Development
+
+Neoanalytic theorist. Had a number of stages.
+
+1. Child idealizes attachment object. Internalizes ideals, know who they are inside. Basic core interjected after interacting, typical process with caregiver. If this doesn't happen, kid has donut self, empty hole. Child compensates by adding icing to the donut. Do that in the next stages.
+2. Hyper autonomy vs shame
+3. Initiative vs Guilt. Once you think you can do things on your own can have initiative. Versus feeling guilty because you can't do anything.
+4. Industry vs inferiority. Very close to self esteem, efficacy, power.  (UP TO HERE IS PRIDE [2-4]). Getting a sense of efficacy. Ego is not just a problem solver. 
+5. Identity vs role confusion
+6. intimacy vs isolation
+7. generativity vs stagnation
+8. integrity vs despair
+
+These were his "redos" of Freud's stages, kind of mapped onto them. 
+
+### Maslow
+
+People get stuck on the second last stage (esteem needs), very few people get to self actualization. 
+
+There is real self, and ideal self. (Horney's splitting). If people don't like the real self, they'll over focus on the ideal self. Convinve themselves that they are the ideal self. The more they deny the real self, the more the conflict becomes between this ideal self and this real human. This conflict becomes more and more incongruous, can lead to psychosis. 
+
+Despised self vs ideal self for neurotic people. 
+
+Incongruence -> threatening situations -> anxiety -> defenses -> increased incongruence, cycle
+
+### Action Identification Theory
+
+Might want to escape the self with distracting concrete experiences. 
+
+Or can focus on grandiouse ideals. (both when things aren't going well)
+
+Concrete repression: anger, procrastination
+
+abstract repression: focus on grandoise ideals. Two different ways that it can go. 
+
+### Echo and Narcissus
+
+Echo was extremely anxious and preoccupied with what others thought. Borderline
+
+Narcissus was just focused on himself and how great he was, grandeur.
+
+Insecure or grandiose self-preoccupation. 
+
+Two strategies map pretty closely onto dissmissive and anxious attachment. Inability to relate to other people. BPD and narcisstic PD. 
+
+### Cliginical diagnosis of borderline personality
+
+- impulsivity
+- frantic efforts to avoid abandonment
+- anger
+- suicidal
+- unstable sense of self
+
+### Narcissism
+
+More manic, grandoise, preoccupied with positive fantasies. Lacks empathy. 
+
+Less mood problems because masked by the grandoise thoughts.   
+
+#### Treatment
+
+Best treated with kindness and compassion. Cause is lack of empathetic mirroring. 
+
+Kohut thought that therapist should be the compassionate parent that the person never had. Gradually the person will see the positive traits, will feel the positive care. 
+
+Kernberg thought differently. Have arguments with the person. Gradually the client learns that everyone is good and bad. Bring reality back into the picture. Not let them stay in this glossy illusion. Fix the issue of splitting, the ideal and the hated sense. 
+
+Carl Rogers tried to do both. 
+
+Narcissists don't mind saying that they're narcissists. Who really is good, and who is narcissitic?
+
+Everyone thinks they're better than average. 
+
+How to measure unconscious self love. Pick most beautiful letters. People that love eachother choose their letters. People named Denise are more likely to be dentists. Mikes as mechanics.
+
+### Implicit self esteem
+
+Adult self reports and parental reports associated with low implicit self esteem in terms of maternal over-protectiveness and unresponsiveness
+
+Narcissism, dissmissive attachment, and high explicit/low implicit self esteem. Say they have high self esteem, but turns out they don't like themselves very much. Say they are great but their feelings towards themselves are negative. All of these have similar origins. Approach motivation, self idealization, low empathy. 
+
+### Paradox of high self esteem
+
+High self esteem is uncorrelated with esteem-worthiness.
+
+Higly correlated with happiness. Especially under threat. If you remind one of these people of failure, their mind will fill with positive thoughts. 
+
+HSE/LISE delusional when anxious. Is there an optimal delusion to make you feel better without negative effects? If these people are reminded of death, they become delusional about their own self worth. They believe lies. They think more people will agree with their ideas. 
+
+The dark side to self esteem - often helpful for individual but can have a social toll. Become arrogant, boastful, obnoxious. Also very hostile if they don't get the flattery that they desire. 
+
+Theme of Star Wars. Inner inviability, masked by extreme, rigid, authoritarian shell. 
+
+Oscar Pistorius overcompensated with his disability by becoming an olympic athlete. On valentine's day, kills girlfriend. 
+
+### Salience of Dilemma after Pride Expression
+
+Asked people to think about choices/dillemas in their lives. Ruminate in the lab for a while. Makes people feel anxious/uncertain. Ask them afterwards how salient/important their problem seems. People will say it is much more salient. 
+
+Also had people talk about their proudest moment in life vs some neutral control. HSE great at it, LSE not so good. HSE thinking about pride decreased their dilemma salience. 
+
+### Compliments
+
+Complimenting people will soften most of them. Will respond to affirmations by becoming more reasonable. Goal is completed, they can let go of it. Narcissists have chronic goal. What happens when you affirm narcissists? They feel more emboldened.
+
+If you tell someone they are very creative, would they be more empathetic to others (eg. like cancer patient)? It makes them more callous. Makes most people kinder, but not narcissists. 
+
+Very hard to deal with these people.
